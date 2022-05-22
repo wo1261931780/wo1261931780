@@ -1,4 +1,5 @@
 ### 我是刘佳珺，你也可以叫我junw👋👋.
+<img src="src/banner.png" />
 
 ## 无论如何，感谢访问我的主页🌏:
 
@@ -19,7 +20,7 @@
 - 🏦 在银行全职做**java开发**。
 
 
-- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)，[Weibo](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
+- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
 
 
 - 🎓 毕业于**集美大学**，欢迎各位校友互fo。
@@ -65,7 +66,7 @@
 [<img src = "https://img.shields.io/badge/junw-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/junw.junw.180)
 [<img src="https://img.shields.io/badge/刘佳珺junw-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
 [<img src = "https://img.shields.io/badge/junwang7789-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff0047">](https://www.instagram.com/wo1261931780/)
-[<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">]()
+[<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
 
 <p >
     <span >工作邮箱：</span>

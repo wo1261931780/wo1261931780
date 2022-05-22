@@ -1,4 +1,5 @@
 ### I'm JUNW.You can also call me Liu Jiajun👋👋.
+<img src="src/banner.png" />
 
 ## Thanks for visiting my profile page🌏:
 
@@ -69,7 +70,7 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/junw-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/junw.junw.180)
 [<img src="https://img.shields.io/badge/刘佳珺junw-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
 [<img src = "https://img.shields.io/badge/junwang7789-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff0047">](https://www.instagram.com/wo1261931780/)
-[<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">]()
+[<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
 
 [//]: # (- 📬 **Work**:wo1261931780@gmail.com)
 [//]: # (- 💼 **wechat**:wo1261931780)
