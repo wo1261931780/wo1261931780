@@ -11,6 +11,20 @@ Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switc
 science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
 system. I will maintain some notes on github for learning the code.
 
+<DIV ALIGN = "center">
+
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)](https://github.com/wo1261931780/st-java.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&width=60%)](https://github.com/wo1261931780/st-java.github.io)
+
+
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&width=24%&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
+
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=st-java.github.io&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
+
+</DIV>
+
 ### Couple things about me:
 
 - 🧬 Bachelor's degree in molecular biology.
@@ -77,27 +91,12 @@ system. I will maintain some notes on github for learning the code.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
-
-<DIV ALIGN = "center">
-
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)](https://github.com/wo1261931780/st-java.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact)](https://github.com/wo1261931780/st-java.github.io)
-
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&width=24%&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=st-java.github.io&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
-</DIV>
-
-
 <DIV ALIGN = "center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </DIV>
+
 [//]: # (自己账号的被查看次数)
 ![](https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil)
 
