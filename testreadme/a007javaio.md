@@ -3,12 +3,6 @@
 [//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=wo1261931780&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 [//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=wo1261931780&title=Commits,PullRequest,Stars,Followers&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 
-[//]: # (自己账号的被查看次数)
-![](https://komarev.com/ghpvc/?username=wo1261931780&style=flat-square&label=viewsUtil)
-
-<p align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&title=Commits,PullRequest,Stars,Followers" />
-</p>
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
@@ -26,6 +20,10 @@
 <a href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46">
 <img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46.svg" alt="wakatime">
 </a>
+
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?logoColor=%56ccf2&style=flat-square)
+
+
 <img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=social">
 😎🙈😅😅👻👨‍💻💫
 
