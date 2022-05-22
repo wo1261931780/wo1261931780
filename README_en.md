@@ -2,8 +2,13 @@
 
 ### You can also call me Liu Jiajun.
 
-🌍First of all,thanks for visiting my profile page.
-<br />
+## 🌍First of all,thanks for visiting my profile page:
+
+<p align="center">
+    <a href="./README_en.md">English</a>
+    ·
+    <a href="./README_cn.md">简体中文</a>    
+<p/>
 Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switched from molecular biology to computer
 science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
 system. I will maintain some notes on github for learning the code.
@@ -19,7 +24,7 @@ Couple things about me:
 
 [//]: # (- 你可以在微博推特ins和个人主页上找到我)
 
-- 💻 You can find me on junwdemonet.com and
+- 💻 You can find me
   on  [linkedin](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
   ,[Twitter](https://twitter.com/home), [Weibo](https://weibo.com/u/6511079715)
   ,[Instagram](https://www.instagram.com/junwang7789/).
@@ -36,23 +41,16 @@ Couple things about me:
 
 - 🔥 Jiangxi native, currently settled in Xiamen, waiting for a good **job opportunity** for a long time.
 
-[//]: # (- 👯 Maintainer of [China Flutter User Group &#40;CFUG&#41;]&#40;https://github.com/cfug&#41; , and hope to collaborate with any team related to Flutter in China.)
+[//]: # (- 单身，也许这里能找到女朋友？在这里认识女朋友也不是不行)
 
 - 💌 Single, maybe you can find a girlfriend here? It is not impossible to meet girlfriends here🤣🤣🤣.
 
-[//]: # (- 单身，也许这里能找到女朋友？在这里认识女朋友也不是不行)
-
-[//]: # (- 🤝 Member of some Flutter organizations in the community, such as [FlutterCandies]&#40;https://github.com/fluttercandies&#41;.)
-
-[//]: # (- ✍🏻 Wrote articles on [juejin.cn]&#40;https://juejin.cn/user/606586150596360&#41; and my [Blog]&#40;https://blog.alexv525.com/&#41;.)
 
 - 🚀 Active on GitHub and participate the development with many projects and repositories.
 
 [//]: # (- 剩下的东西还没想好😜🏦)
 
 - 😂 The rest of the content has not yet been thought of.
-
-[//]: # (## :sparkling_heart: How to reach me 📫 :)
 
 ## Find me around the web 🌎:
 
@@ -67,25 +65,6 @@ Couple things about me:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)
 
-[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wo1261931780&bg_color=30,1488cc,2b32b2&title_color=fff&text_color=fff&#41;)
-
-[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wo1261931780&bg_color=30,56ccf2,2f80ed&title_color=fff&text_color=fff&#41;)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780)](https://github.com/wo1261931780/st-java.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=st-java.github.io)](https://github.com/wo1261931780/st-java.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=st-ssm.github.io)](https://github.com/wo1261931780/st-ssm.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=vue-admin-self)](https://github.com/wo1261931780/vue-admin-self)
-
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=st-java.github.io&show_owner=true&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
-[//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
-
-[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />)
-
-[//]: # (</a>)
-
-[//]: # (<a href="https://github.com/anuraghazra/convoychat">)
-
-[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />)
-
-[//]: # (</a>)
