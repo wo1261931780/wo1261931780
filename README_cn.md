@@ -3,7 +3,7 @@
 ## 🌍无论如何，感谢访问我的主页:
 
 <p align="center">
-    <a href="./README_en.md">English</a>
+    <a href="README.md">English</a>
     ·
     <a href="./README_cn.md">简体中文</a>    
 <p/>

@@ -5,7 +5,7 @@
 ## 🌍First of all,thanks for visiting my profile page:
 
 <p align="center">
-    <a href="./README_en.md">English</a>
+    <a href="README.md">English</a>
     ·
     <a href="./README_cn.md">简体中文</a>    
 <p/>
