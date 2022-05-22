@@ -44,7 +44,7 @@ system. I will maintain some notes on github for learning the code.
 
 - 😂 ~~The rest of the content has not yet been thought of~~.
 
-### My Skills 🚀
+## My Skills 🚀
 
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
@@ -58,18 +58,13 @@ system. I will maintain some notes on github for learning the code.
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Tools I Use 🔧🔨
+## Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Find me around the web 🌏:
-
-- 📬 **Work**:wo1261931780@gmail.com
-- 💼 **wechat**:wo1261931780
-- 🏠 **Personal**:642344572@qq.com
-
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec">](https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0)
 [<img src = "https://img.shields.io/badge/君王-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wo1261931780)
 [<img src = "https://img.shields.io/badge/junw-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/junw.junw.180)
@@ -77,6 +72,22 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/junwang7789-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=e000a9">](https://www.instagram.com/wo1261931780/)
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">]()
 
+[//]: # (- 📬 **Work**:wo1261931780@gmail.com)
+[//]: # (- 💼 **wechat**:wo1261931780)
+[//]: # (- 🏠 **Personal**:642344572@qq.com)
+
+<p >
+    <span >work：</span>
+    <a text="work">wo1261931780@gmail.com</a>
+    ·
+    <span >wechat：</span>
+    <a text="work">wo1261931780</a>
+    ·
+    <span >Personal：</span>
+    <a text="work">642344572@qq.com</a>    
+<p/>
+
+## Some statistics 💪💪💪:
 <DIV ALIGN = "center">
 
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)](https://github.com/wo1261931780/st-java.github.io)
