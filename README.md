@@ -1,6 +1,6 @@
 ### I'm JUNW.You can also call me Liu Jiajun👋👋.
 
-## 🌏Thanks for visiting my profile page:
+## Thanks for visiting my profile page🌏:
 
 <p align="center">
     <a href="README.md">English</a>
@@ -13,7 +13,7 @@ system. I will maintain some notes on github for learning the code.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
-### Couple things about me:
+## Couple things about me💫:
 
 - 🧬 Bachelor's degree in molecular biology.
 
@@ -109,6 +109,10 @@ system. I will maintain some notes on github for learning the code.
 
 </p>
 
+<p align="center">
 
 [//]: # (自己账号的被查看次数)
-![](https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil)
+<img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil"/>
+
+</p>
+
