@@ -11,19 +11,7 @@ Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switc
 science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
 system. I will maintain some notes on github for learning the code.
 
-<DIV ALIGN = "center">
-
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)](https://github.com/wo1261931780/st-java.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&width=60%)](https://github.com/wo1261931780/st-java.github.io)
-
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&width=24%&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-[//]: # ([![Readme Card]&#40;https://github-readme-stats.vercel.app/api/pin/?username=wo1261931780&repo=st-java.github.io&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
-</DIV>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
 ### Couple things about me:
 
@@ -89,7 +77,12 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec">](https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0)
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">]()
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+<DIV ALIGN = "center">
+
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)](https://github.com/wo1261931780/st-java.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&width=24%)](https://github.com/wo1261931780/st-java.github.io)
+
+</DIV>
 
 <DIV ALIGN = "center">
 
