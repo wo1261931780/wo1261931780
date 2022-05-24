@@ -124,7 +124,7 @@ system. I will maintain some notes on github for learning the code.
 <p align="center">
 
 [//]: # (奖杯展示)
-<img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&theme=onedark&theme=onedark" />
+<img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&theme=onedark&no-bg=true" />
 
 </p>
 <p align="center">
