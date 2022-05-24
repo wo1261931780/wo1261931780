@@ -1,4 +1,5 @@
 ### I'm JUNW.You can also call me Liu Jiajun👋👋.
+
 <img src="src/banner.png" />
 
 ## Thanks for visiting my profile page🌏:
@@ -65,6 +66,7 @@ system. I will maintain some notes on github for learning the code.
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## Find me around the web 🌏:
+
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec">](https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0)
 [<img src = "https://img.shields.io/badge/君王-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wo1261931780)
 [<img src = "https://img.shields.io/badge/junw-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/junw.junw.180)
@@ -73,7 +75,9 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
 
 [//]: # (- 📬 **Work**:wo1261931780@gmail.com)
+
 [//]: # (- 💼 **wechat**:wo1261931780)
+
 [//]: # (- 🏠 **Personal**:642344572@qq.com)
 
 <p >
@@ -88,10 +92,19 @@ system. I will maintain some notes on github for learning the code.
 <p/>
 
 ## Some statistics 💪💪💪:
+
+[//]: # (这里全部该改成折叠展示)
 <DIV ALIGN = "center">
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff)](https://github.com/wo1261931780/st-java.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&width=24%)](https://github.com/wo1261931780/st-java.github.io)
+[//]: # (原始的组件)
+
+[//]: # ([![Antonio's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
+
+[//]: # (原始的组件)
+
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="195px"/></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="195px"/></a>
 
 </DIV>
 
@@ -102,11 +115,22 @@ system. I will maintain some notes on github for learning the code.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6)](https://git.io/streak-stats)
 
 
+[//]: # (所有信息的统计展示)
+![Metrics](https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
+
+
 </DIV>
 
 <p align="center">
 
-<img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780" />
+[//]: # (奖杯展示)
+<img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&theme=onedark" />
+
+</p>
+<p align="center">
+
+[//]: # (带有背景图的账号评分)
+<img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wo1261931780&hide_title=true'>
 
 </p>
 
@@ -114,6 +138,13 @@ system. I will maintain some notes on github for learning the code.
 
 [//]: # (自己账号的被查看次数)
 <img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil"/>
+
+</p>
+
+<p align="center">
+
+[//]: # (自己账号的被查看次数)
+<img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
 
 </p>
 
