@@ -103,8 +103,8 @@ system. I will maintain some notes on github for learning the code.
 [//]: # (原始的组件)
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="195px"/></a>
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="195px"/></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/></a>
 
 </DIV>
 
@@ -130,7 +130,7 @@ system. I will maintain some notes on github for learning the code.
 <p align="center">
 
 [//]: # (带有背景图的账号评分)
-<img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wo1261931780&hide_title=true'>
+<img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wo1261931780&hide_title=true&no-bg=true'>
 
 </p>
 
