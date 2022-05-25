@@ -13,11 +13,10 @@ Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switc
 science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
 system. I will maintain some notes on github for learning the code.
 
-[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 
 [//]: # (折线图出现异常)
 
-[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
 ## Couple things about me💫:
 
@@ -101,6 +100,7 @@ system. I will maintain some notes on github for learning the code.
 <p/>
 
 ## Some statistics 💪💪💪:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
 [//]: # (这里全部该改成折叠展示)
 <div ALIGN = "center">
