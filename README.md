@@ -15,6 +15,9 @@ system. I will maintain some notes on github for learning the code.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Couple things about me💫:
 
 - 🧬 Bachelor's degree in molecular biology.
@@ -58,7 +61,9 @@ system. I will maintain some notes on github for learning the code.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ## Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -105,6 +110,13 @@ system. I will maintain some notes on github for learning the code.
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 <a href=""><img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/></a>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/></a>
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/wo1261931780/st-java.github.io)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/wo1261931780/st-java.github.io)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/wo1261931780/st-java.github.io)
+
+
+
+
 
 </DIV>
 
