@@ -26,17 +26,15 @@
 
 
 [//]: # (git的旭日图)
-<a href="https://github.com/yihong0618/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
+[//]: # (<a href="https://github.com/yihong0618/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>)
+<a href="https://github.com/wo1261931780/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/wo1261931780/GitHubPoster/main/examples/strava_circular.svg"/></a>
 
 [//]: # (每30天的git状态)
+[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[//]: # (想用，又不知道该怎么用)
-[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[//]: # (更多内容需要手动设置secret key)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wo1261931780&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wo1261931780&theme=default)
