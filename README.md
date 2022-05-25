@@ -52,6 +52,9 @@ system. I will maintain some notes on github for learning the code.
 
 ## My Skills 🚀
 
+[//]: # (目前使用的技术，修改项目的图标，修改徽章颜色，补充没有的徽章，idea，vuejs，tool内部——idea，pycharm，webstorm)
+
+
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
