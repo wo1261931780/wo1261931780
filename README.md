@@ -104,7 +104,10 @@ system. I will maintain some notes on github for learning the code.
 
 ## Some statistics 💪💪💪:
 
+[//]: # (这里需要修改)
 <a href="https://github.com/wo1261931780/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/wo1261931780/GitHubPoster/main/examples/strava_circular.svg"/></a>
+
+![](https://github.com/wo1261931780/blog/blob/master/assets/github_2021.svg)
 
 
 [//]: # (这里全部该改成折叠展示)
