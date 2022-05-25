@@ -17,7 +17,6 @@ system. I will maintain some notes on github for learning the code.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## Couple things about me💫:
 
 - 🧬 Bachelor's degree in molecular biology.
@@ -66,7 +65,8 @@ system. I will maintain some notes on github for learning the code.
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring)
----
+
+
 ## Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -106,9 +106,6 @@ system. I will maintain some notes on github for learning the code.
 
 [//]: # (这里需要修改)
 <a href="https://github.com/wo1261931780/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/wo1261931780/GitHubPoster/main/examples/strava_circular.svg"/></a>
-
-![](https://github.com/wo1261931780/blog/blob/master/assets/github_2021.svg)
-
 
 [//]: # (这里全部该改成折叠展示)
 <DIV ALIGN = "center">
@@ -151,12 +148,7 @@ system. I will maintain some notes on github for learning the code.
 <img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&theme=onedark&no-bg=true" />
 
 </p>
-<p align="center">
 
-[//]: # (带有背景图的账号评分)
-<img src='https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wo1261931780&hide_title=true&no-bg=true'>
-
-</p>
 
 <p align="center">
 
@@ -167,29 +159,13 @@ system. I will maintain some notes on github for learning the code.
 
 <p align="center">
 
-[//]: # (自己账号的被查看次数)
+[//]: # (萝莉举牌，自己账号的被查看次数)
 <img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
 
 </p>
 
-<a href="https://jb.gg/OpenSourceSupport">
-<p align="center">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
-</p>
-</a>
-<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
-A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
-## :pray: Thanks
 
-Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better project. Special thanks to
 
-- [@vkbansal](https://github.com/vkbansal), who provided significant early feedback throughout the early releases.
-- [@rainabba](https://github.com/rainabba) and [@sullivanpt](https://github.com/sullivanpt) for getting Node v4 support integrated.
-- [@s-h-a-d-o-w](https://github.com/s-h-a-d-o-w) who resolved the longstanding space escaping issue in path names ([#355](https://github.com/coreybutler/nvm-windows/pull/355)).
-- [ajyong](https://github.com/ajyong) who sponsored the code signing certificate in late 2021.
 
-<br/>
 
-![Contributors](https://contrib.rocks/image?repo=coreybutler/nvm-windows)
-![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
