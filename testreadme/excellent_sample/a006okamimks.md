@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/5XG3bRq.png" width="280">
 <div align="left">
-    <a href"https://github.com/OkamiMks?tab=followers">
+    <a href="https://github.com/OkamiMks?tab=followers">
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/OkamiMks?style=social" />
     </a>
