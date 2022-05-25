@@ -51,33 +51,56 @@ system. I will maintain some notes on github for learning the code.
 
 ## My Skills 🚀
 
-[//]: # (目前使用的技术，修改项目的图标，修改徽章颜色，补充没有的徽章，idea，vuejs，tool内部——idea，pycharm，webstorm)
+[//]: # (目前使用的技术，修改项目的图标，修改徽章颜色)
 
+![python](https://img.shields.io/badge/-python-%234B32C3?style=for-the-badge&logo=python&logoColor=white)
+![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+[//]: # (java，mysql，spring,)
+
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![spring](https://img.shields.io/badge/-spring-%234B32C3?style=for-the-badge&logo=spring&logoColor=white)
+
+
+[//]: # (git，linux)
+![nginx](https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=white)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+
+[//]: # (html，css，js，nodejs，npm，nginx)
+
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
-![](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
-![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring)
 
-## Tools I Use 🔧🔨
+[//]: # (vue，bootstrap，element)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234B32C3?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%234B32C3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![element](https://img.shields.io/badge/-element-%234B32C3?style=for-the-badge&logo=element&logoColor=white)
 
+## Tools I Use 🔧
+
+[//]: # (vsocde,webstorm)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![webstorm](https://img.shields.io/badge/webstorm-007ACC.svg?&style=for-the-badge&logo=webstorm&logoColor=white)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+[//]: # (ubuntu,xshell,powershell,)
+![amazon](https://img.shields.io/badge/-amazon-000000?style=for-the-badge&logo=amazon&logoColor=white)
+![google](https://img.shields.io/badge/-google-000000?style=for-the-badge&logo=google&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code)
+![powershell](https://img.shields.io/badge/powershell-E95420.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+[//]: # (idea,pycharm,anaconda,postman,navicat,)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA)
+![pycharm](https://img.shields.io/badge/-pycharm-000000?style=for-the-badge&logo=pycharm)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![navicat](https://img.shields.io/badge/-navicat-000000?style=for-the-badge&logo=navicat)
+
+[//]: # (aws,gcp,阿里云)
 
 ## Find me around the web 🌏:
 
@@ -100,7 +123,8 @@ system. I will maintain some notes on github for learning the code.
 <p/>
 
 ## Some statistics 💪💪💪:
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+
+[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 
 [//]: # (这里全部该改成折叠展示)
 <div ALIGN = "center">
