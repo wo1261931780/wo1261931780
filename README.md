@@ -64,11 +64,17 @@ system. I will maintain some notes on github for learning the code.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
+![](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring)
+---
 ## Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code)
 
 ## Find me around the web 🌏:
 
@@ -98,6 +104,9 @@ system. I will maintain some notes on github for learning the code.
 
 ## Some statistics 💪💪💪:
 
+<a href="https://github.com/wo1261931780/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/wo1261931780/GitHubPoster/main/examples/strava_circular.svg"/></a>
+
+
 [//]: # (这里全部该改成折叠展示)
 <DIV ALIGN = "center">
 
@@ -114,7 +123,7 @@ system. I will maintain some notes on github for learning the code.
 [![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/wo1261931780/st-java.github.io)
 [![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/wo1261931780/st-java.github.io)
 
-
+[//]: # (这里的问题需要解决)
 
 
 
