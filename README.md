@@ -13,9 +13,11 @@ Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switc
 science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
 system. I will maintain some notes on github for learning the code.
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[//]: # (折线图出现异常)
+
+[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
 
 ## Couple things about me💫:
 
@@ -66,7 +68,6 @@ system. I will maintain some notes on github for learning the code.
 ![](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring)
 
-
 ## Tools I Use 🔧🔨
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -85,12 +86,6 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/junwang7789-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff0047">](https://www.instagram.com/wo1261931780/)
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
 
-[//]: # (- 📬 **Work**:wo1261931780@gmail.com)
-
-[//]: # (- 💼 **wechat**:wo1261931780)
-
-[//]: # (- 🏠 **Personal**:642344572@qq.com)
-
 <p >
     <span >work：</span>
     <a text="work">wo1261931780@gmail.com</a>
@@ -104,32 +99,19 @@ system. I will maintain some notes on github for learning the code.
 
 ## Some statistics 💪💪💪:
 
-[//]: # (这里需要修改)
-<a href="https://github.com/wo1261931780/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/wo1261931780/GitHubPoster/main/examples/strava_circular.svg"/></a>
-
 [//]: # (这里全部该改成折叠展示)
-<DIV ALIGN = "center">
+<div ALIGN = "center">
 
-[//]: # (原始的组件)
-
-[//]: # ([![Antonio's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
-[//]: # (原始的组件)
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 <a href=""><img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/></a>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/></a>
-[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/wo1261931780/st-java.github.io)
-[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/wo1261931780/st-java.github.io)
-[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/wo1261931780/st-java.github.io)
 
 [//]: # (这里的问题需要解决)
 
 
 
-</DIV>
+</div>
 
-<DIV ALIGN = "center">
+<div ALIGN = "center">
 
 [//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
 
@@ -140,14 +122,14 @@ system. I will maintain some notes on github for learning the code.
 ![Metrics](https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo)
 
 
-</DIV>
+</div>
 
-<p align="center">
+<div align="center">
 
 [//]: # (奖杯展示)
 <img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&theme=onedark&no-bg=true" />
 
-</p>
+</div>
 
 
 <p align="center">

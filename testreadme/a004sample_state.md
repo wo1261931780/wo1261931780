@@ -22,3 +22,18 @@
 
 [//]: # (被收藏的次数，折线图)
 [![Star History Chart](https://api.star-history.com/svg?repos=fanux/sealos&type=Date)](https://star-history.com/#fanux/sealos&Date)
+
+
+[//]: # (这里需要修改)
+<a href="https://github.com/wo1261931780/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/wo1261931780/GitHubPoster/main/examples/strava_circular.svg"/></a>
+
+[//]: # (每30天的git状态)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+[//]: # (需要修改的)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/wo1261931780/st-java.github.io)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/wo1261931780/st-java.github.io)
+[![](https://raw.githubusercontent.com/sunface/sunface/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/wo1261931780/st-java.github.io)
