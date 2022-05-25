@@ -53,14 +53,14 @@ system. I will maintain some notes on github for learning the code.
 
 [//]: # (目前使用的技术，修改项目的图标，修改徽章颜色)
 
-![python](https://img.shields.io/badge/-python-%234B32C3?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/-python-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 [//]: # (java，mysql，spring,)
 
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![spring](https://img.shields.io/badge/-spring-%234B32C3?style=for-the-badge&logo=spring&logoColor=white)
+![spring](https://img.shields.io/badge/spring-007ACC?style=for-the-badge&logo=spring&logoColor=white)
 
 
 [//]: # (git，linux)
@@ -75,9 +75,9 @@ system. I will maintain some notes on github for learning the code.
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 
 [//]: # (vue，bootstrap，element)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234B32C3?style=for-the-badge&logo=Vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%234B32C3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![element](https://img.shields.io/badge/-element-%234B32C3?style=for-the-badge&logo=element&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-007ACC?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-007ACC?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![element](https://img.shields.io/badge/-element-007ACC?style=for-the-badge&logo=element&logoColor=white)
 
 ## Tools I Use 🔧
 
@@ -88,17 +88,17 @@ system. I will maintain some notes on github for learning the code.
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 [//]: # (ubuntu,xshell,powershell,)
-![amazon](https://img.shields.io/badge/-amazon-000000?style=for-the-badge&logo=amazon&logoColor=white)
-![google](https://img.shields.io/badge/-google-000000?style=for-the-badge&logo=google&logoColor=white)
+![amazon](https://img.shields.io/badge/amazon-007ACC?style=for-the-badge&logo=amazon&logoColor=white)
+![google](https://img.shields.io/badge/google-007ACC?style=for-the-badge&logo=google&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-E95420.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 [//]: # (idea,pycharm,anaconda,postman,navicat,)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA)
-![pycharm](https://img.shields.io/badge/-pycharm-000000?style=for-the-badge&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-007ACC?style=for-the-badge&logo=IntelliJ%20IDEA)
+![pycharm](https://img.shields.io/badge/-pycharm-007ACC?style=for-the-badge&logo=pycharm)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![navicat](https://img.shields.io/badge/-navicat-000000?style=for-the-badge&logo=navicat)
+![navicat](https://img.shields.io/badge/-navicat-007ACC?style=for-the-badge&logo=navicat)
 
 [//]: # (aws,gcp,阿里云)
 
