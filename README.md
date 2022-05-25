@@ -132,19 +132,19 @@ system. I will maintain some notes on github for learning the code.
 </div>
 
 
-<p align="center">
+<div align="center">
 
 [//]: # (自己账号的被查看次数)
 <img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 [//]: # (萝莉举牌，自己账号的被查看次数)
 <img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
 
-</p>
+</div>
 
 
 
