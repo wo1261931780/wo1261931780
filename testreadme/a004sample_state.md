@@ -101,7 +101,8 @@ project. Special thanks to
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
-
+[//]: # (star数量，随着时间展示)
+[![starcharts stargazers over time](https://starchart.cc/wo1261931780/st-java.github.io.svg)](https://starchart.cc/wo1261931780/st-java.github.io)
 
 
 

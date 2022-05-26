@@ -131,7 +131,11 @@ system. I will maintain some notes on github for learning the code.
 [//]: # (powershell，#2c4562)
 
 [//]: # (xshell，#f2473f)
-[<img src = "https://img.shields.io/badge/amazon-ff9900.svg?&style=for-the-badge&logo=amazon&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/AWS-ff9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/alibabacloud-FF6A00.svg?&style=for-the-badge&logo=alibabacloud&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/google-e34133.svg?&style=for-the-badge&logo=google&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/Ubuntu%20VM-f45f00.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/powershell-2c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white">]()
@@ -142,6 +146,9 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/pycharm-16ceb4.svg?&style=for-the-badge&logo=pycharm&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/Postman-ff6c37.svg?&style=for-the-badge&logo=Postman&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/notepad%2B%2B-90E59A.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=black">]()
 
 
 [//]: # (aws,gcp,阿里云)
@@ -154,6 +161,8 @@ system. I will maintain some notes on github for learning the code.
 [<img src = "https://img.shields.io/badge/刘佳珺junw-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
 [<img src = "https://img.shields.io/badge/junwang7789-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff0047">](https://www.instagram.com/wo1261931780/)
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
+
+[//]: # ([<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=alipay&logoColor=white&color=d52c2b">]&#40;https://weibo.com/u/6511079715&#41;)
 
 <p >
     <span >work：</span>
