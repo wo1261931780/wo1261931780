@@ -53,22 +53,22 @@ system. I will maintain some notes on github for learning the code.
 
 [//]: # (目前使用的技术，修改项目的图标，修改徽章颜色)
 
-[<img src = "https://img.shields.io/badge/-python-007ACC?style=for-the-badge&logo=python&logoColor=white">]()
-
-[<img src = "https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/-python-3776ab?style=for-the-badge&logo=python&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/anaconda-43b049.svg?&style=for-the-badge&logo=anaconda&logoColor=white">]()
 
 
 [//]: # (java，mysql，spring,)
-[<img src = "https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396">]()
-[<img src = "https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1">]()
-[<img src = "https://img.shields.io/badge/spring-007ACC?style=for-the-badge&logo=spring&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/java-3d5d69?style=for-the-badge&logo=java&logoColor=white&color=007396">]()
+[<img src = "https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1">]()
+[<img src = "https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">]()
 
 
 [//]: # (git，linux)
-[<img src = "https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032">]()
-[<img src = "https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624">]()
+[<img src = "https://img.shields.io/badge/nginx-009900?&style=for-the-badge&logo=nginx&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/git-f54d27?style=for-the-badge&logo=git&logoColor=white&color=F05032">]()
+[<img src = "https://img.shields.io/badge/linux-ffd133?style=for-the-badge&logo=linux&logoColor=black&color=FCC624">]()
 
+[//]: # (上面颜色配置完成)
 
 [//]: # (html，css，js，nodejs，npm，nginx)
 [<img src = "https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">]()
