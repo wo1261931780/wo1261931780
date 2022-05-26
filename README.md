@@ -53,7 +53,7 @@ system. I will maintain some notes on github for learning the code.
 
 [//]: # (目前使用的技术，修改项目的图标，修改徽章颜色)
 
-[<img src = "https://img.shields.io/badge/-python-3776ab?style=for-the-badge&logo=python&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/anaconda-43b049.svg?&style=for-the-badge&logo=anaconda&logoColor=white">]()
 
 
@@ -70,41 +70,78 @@ system. I will maintain some notes on github for learning the code.
 
 [//]: # (上面颜色配置完成)
 
-[//]: # (html，css，js，nodejs，npm，nginx)
-[<img src = "https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">]()
-[<img src = "https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E">]()
-[<img src = "https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26">]()
+[//]: # (html，#e54c21)
+
+[//]: # (css，#214ce5)
+
+[//]: # (vue，#3fb984，#31475e)
+
+[//]: # (node，#689f63)
+
+[//]: # (bootstrap，#712cf9)
+
+[//]: # (elementui，#409eff)
+
+[//]: # ([<img src = "https://img.shields.io/badge/css3-3581fc?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">]&#40;&#41;)
+[<img src = "https://img.shields.io/badge/css3-214ce5.svg?&style=for-the-badge&logo=css3&logoColor=white">]()
+
+[//]: # ([<img src = "https://img.shields.io/badge/javscript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E">]&#40;&#41;)
+[<img src = "https://img.shields.io/badge/javscript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/html5-e54c21.svg?&style=for-the-badge&logo=html5&logoColor=white">]()
+
 
 [//]: # (vue，bootstrap，element)
-
-[<img src = "https://img.shields.io/badge/-Vue.js-007ACC?style=for-the-badge&logo=Vue.js&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/-Bootstrap-007ACC?style=for-the-badge&logo=Bootstrap&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/-element-007ACC?style=for-the-badge&logo=element&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Vue.js-3fb984.svg?&style=for-the-badge&logo=Vue.js&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Bootstrap-712cf9.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/element-409eff.svg?&style=for-the-badge&logo=element&logoColor=white">]()
 
 ## Tools I Use 🔧
 
 [//]: # (vsocde,webstorm)
 
-[<img src = "https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/webstorm-007ACC.svg?&style=for-the-badge&logo=webstorm&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint">]()
-[<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">]()
+[//]: # (vscode，#339feb)
+
+[//]: # (webstorm，#07c3f2)
+
+[//]: # (idea，#ad4993)
+
+[//]: # (aws，Amazon Web Services，#ff9900)
+
+[//]: # (gcp，Google Cloud Platform，#e34133)
+
+[//]: # (pycharm，#16ceb4)
+
+[//]: # (navicat，#f7d856)
+
+[//]: # (postman，#ff6c37)
+
+[//]: # (npm,CB3837)
+
+[//]: # (eslint,#4930bd)
+[<img src = "https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/ESLint-4930bd.svg?&style=for-the-badge&logo=ESLint&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white">]()
 
 
 [//]: # (ubuntu,xshell,powershell,)
-[<img src = "https://img.shields.io/badge/amazon-007ACC?style=for-the-badge&logo=amazon&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/google-007ACC?style=for-the-badge&logo=google&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/nginx-007ACC.svg?&style=for-the-badge&logo=nginx&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/powershell-E95420.svg?style=for-the-badge&logo=powershell&logoColor=white">]()
+
+[//]: # (ubuntu，#f45f00)
+
+[//]: # (powershell，#2c4562)
+
+[//]: # (xshell，#f2473f)
+[<img src = "https://img.shields.io/badge/amazon-ff9900.svg?&style=for-the-badge&logo=amazon&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/google-e34133.svg?&style=for-the-badge&logo=google&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Ubuntu%20VM-f45f00.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/powershell-2c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white">]()
 
 
 [//]: # (idea,pycharm,anaconda,postman,navicat,)
-
-[<img src = "https://img.shields.io/badge/-IntelliJ%20IDEA-007ACC?style=for-the-badge&logo=IntelliJ%20IDEA">]()
-[<img src = "https://img.shields.io/badge/-pycharm-007ACC?style=for-the-badge&logo=pycharm">]()
-[<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/-navicat-007ACC?style=for-the-badge&logo=navicat">]()
+[<img src = "https://img.shields.io/badge/IntelliJ%20IDEA-ad4993.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/pycharm-16ceb4.svg?&style=for-the-badge&logo=pycharm&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Postman-ff6c37.svg?&style=for-the-badge&logo=Postman&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white">]()
 
 
 [//]: # (aws,gcp,阿里云)
