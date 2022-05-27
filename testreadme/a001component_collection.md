@@ -107,9 +107,27 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 
 
 
+---
+
+### ✍️Random Dev Quote
+
+[//]: # (引用文字)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+---
 
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;组件折叠</b></summary>
+  <br>
+  <img src='https://github-profile-trophy.vercel.app/?username=iota9star'>
+</details>
+
+---
+
+[//]: # (early bird还没处理)
 
 
 
