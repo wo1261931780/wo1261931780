@@ -40,7 +40,7 @@
 ---
 
 
-[//]: # (每个项目的看板)
+[//]: # (单个项目的看板)
 ![Alt](https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics image")
 ---
 
@@ -129,21 +129,118 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 
 [//]: # (early bird还没处理)
 
+---
+
+[//]: # (渐变色拼接组件)
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Naccl&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Naccl's GitHub Stats"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naccl&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
+---
+
+[//]: # (贪吃蛇展示git状态)
+![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)
+
+---
+
+[//]: # (表格组件)
+
+## 游戏
+
+<!--START_SECTION:my_game-->
+
+| Name | Start | Update | 
+| ---- | ---- | ---- | 
+| [《哈迪斯》](https://github.com/yihong0618/2021/issues/11#issuecomment-772144499) | 2021-02-03 | 2021-02-03 | 
+| [《马里奥手游》](https://github.com/yihong0618/2021/issues/11#issuecomment-800756308) | 2021-03-17 | 2021-03-17 | 
+| [《以撒》](https://github.com/yihong0618/2021/issues/11#issuecomment-873855697) | 2021-07-05 | 2021-07-05 | 
+| [《into the breach》](https://github.com/yihong0618/2021/issues/11#issuecomment-984220402) | 2021-12-02 | 2021-12-02 | 
+
+---
+
+[//]: # (另一种表格的展示方法)
+<table>
+<tr><td colspan="2"><a href="#survey-papers">1. Survey Papers</a></td></tr> 
+<tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
+
+<tr>
+	<td>&emsp;<a href=#computer-vision>2.1 Computer Vision</a></td>
+	<td>&emsp;<a href=#audio>2.2 Audio</a></td>
+</tr>
+<tr>
+	<td>&emsp;<a href=#Videos-and-Multimodal>2.3 Videos and Multimodal</a></td>
+	<td>&emsp;<a href=#NLP>2.4 NLP</a></td>
+</tr>
+<tr>
+	<td>&emsp;<a href=#language-contrastive-learning>2.5 Language Contrastive Learning</a></td>
+	<td>&emsp;<a href=#graph>2.6 Graph</a></td>
+</tr>
+<tr>
+	<td>&emsp;<a href=#adversarial-learning>2.7 Adversarial Learning</a></td>
+	<td>&emsp;<a href=#applications>2.8 Recommendation</a></td>
+</tr>
+<tr>
+	<td>&emsp;<a href=#recommendation>2.9 Applications</a></td>
+</tr>
+</table>
+
+---
+
+[//]: # (竖线图组件)
+
+[![Translation status](https://hosted.weblate.org/widgets/sagernet/-/horizontal-auto.svg)](https://hosted.weblate.org/engage/sagernet/)
 
 
+---
+
+[//]: # (证书组件)
+
+## License
+
+```
+Copyright (C) 2021 by nekohasekai <contact-sagernet@sekai.icu>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+```
+
+---
+
+## License
+
+This software is released under the GPL-3.0 license.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
+
+---
 
 
+[//]: # (居中组件)
+<h1 align="center">
+  <br>Clash<br>
+</h1>
 
 
+---
 
+[//]: # (注释组件)
+> 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
 
+---
 
+[//]: # (复选框组件)
+## Features
 
-
-
-
-
-
-
-
+- [x] ClickHouse support
+- [x] GitLab CE/EE support (Database-as-Code, login with GitLab account, project membership sync)
+- [x] Webhook integration for Slack, Discord, MS Teams, DingTalk(钉钉), Feishu(飞书), WeCom(企业微信)
+- [ ] GitLab.com support
 
