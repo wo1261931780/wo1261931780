@@ -20,6 +20,10 @@
 ![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
 </div>
 
+<p>
+  <img  align='right' src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-java.github.io.svg?type=large">
+</p>
+
 ## Features
 
 - [x] ClickHouse support
@@ -27,18 +31,13 @@
 - [x] Webhook integration for Slack, Discord, MS Teams, DingTalk(钉钉), Feishu(飞书), WeCom(企业微信)
 - [ ] GitLab.com support
 
-## 开源证书
 
-[//]: # (st-java.github.io)
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-java.github.io?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-java.github.io.svg?type=large"/></a>
-
-## 基本信息
+## 构造工具
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fd266a.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
-
 </p>
 
 ## 关注我
@@ -57,9 +56,16 @@
 <a href="https://leetcode.com/junw"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-[//]: # (感谢jetbrains提供的证书)
-<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
-A dynamically generated activity graph to show your GitHub activities of last 31 days.
+## 捐献
+
+[//]: # (捐献，这里还没有绑定账号)
+<div>
+<a href="https://ko-fi.com/re"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://patreon.com/re"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://paypal.me/re"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href=""><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</div>
+
 
 [//]: # (贡献者自动生成)
 
@@ -76,13 +82,6 @@ project. Special thanks to
 
 ---
 
-## 捐献
-
-[//]: # (捐献，这里还没有绑定账号)
-<p>
-<a href="https://ko-fi.com/re"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://patreon.com/re"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://paypal.me/re"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href=""><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://buymeacoffee.com/re"><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+[//]: # (感谢jetbrains提供的证书)
+<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
+<div align="center">A dynamically generated activity graph to show your GitHub activities of last 31 days.</div>
