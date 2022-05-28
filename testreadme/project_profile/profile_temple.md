@@ -6,20 +6,19 @@
 ---
 <p align="center">项目介绍………………………………………………</p>
 
-<div align="center">
-<div href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46"/>
+<div>
+
+<img href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46">
+
 </div>
 
-<p>
+<p align="center">
 <img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=for-the-badge" >
 <img src="https://img.shields.io/badge/java-17-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" >
 <img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views"/>
-</p>
-
-## Github Status
 
 [//]: # (wakatime总时长)
-<img alt="wakatime" href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903"><img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903.svg?color=%23ca3e47&style=for-the-badge">
+<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime" >
 
 [//]: # (每周提交次数)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
@@ -32,6 +31,8 @@
 
 [//]: # (st-java.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
+
+</p>
 
 ## Features
 
@@ -76,7 +77,7 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 
 [//]: # (贡献者自动生成)
 
-##  Thanks
+## Thanks
 
 Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better
 project. Special thanks to
@@ -92,9 +93,10 @@ project. Special thanks to
 ## 捐献
 
 [//]: # (捐献，这里还没有绑定账号)
-
+<p>
 <a href="https://ko-fi.com/re"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://patreon.com/re"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://paypal.me/re"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href=""><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://buymeacoffee.com/re"><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
