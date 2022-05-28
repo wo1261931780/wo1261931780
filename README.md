@@ -51,118 +51,16 @@ system. I will maintain some notes on github for learning the code.
 
 ## My Skills 🚀
 
-[//]: # (目前使用的技术，修改项目的图标，修改徽章颜色)
-
-[<img src = "https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/anaconda-43b049.svg?&style=for-the-badge&logo=anaconda&logoColor=white">]()
 
 
-[//]: # (java，mysql，spring,)
-[<img src = "https://img.shields.io/badge/java-3d5d69?style=for-the-badge&logo=java&logoColor=white&color=007396">]()
-[<img src = "https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1">]()
-[<img src = "https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">]()
 
-
-[//]: # (git，linux)
-[<img src = "https://img.shields.io/badge/nginx-009900?&style=for-the-badge&logo=nginx&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/git-f54d27?style=for-the-badge&logo=git&logoColor=white&color=F05032">]()
-[<img src = "https://img.shields.io/badge/linux-ffd133?style=for-the-badge&logo=linux&logoColor=black&color=FCC624">]()
-
-[//]: # (上面颜色配置完成)
-
-[//]: # (html，#e54c21)
-
-[//]: # (css，#214ce5)
-
-[//]: # (vue，#3fb984，#31475e)
-
-[//]: # (node，#689f63)
-
-[//]: # (bootstrap，#712cf9)
-
-[//]: # (elementui，#409eff)
-
-[//]: # ([<img src = "https://img.shields.io/badge/css3-3581fc?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">]&#40;&#41;)
-[<img src = "https://img.shields.io/badge/css3-214ce5.svg?&style=for-the-badge&logo=css3&logoColor=white">]()
-
-[//]: # ([<img src = "https://img.shields.io/badge/javscript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E">]&#40;&#41;)
-[<img src = "https://img.shields.io/badge/javscript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/html5-e54c21.svg?&style=for-the-badge&logo=html5&logoColor=white">]()
-
-
-[//]: # (vue，bootstrap，element)
-[<img src = "https://img.shields.io/badge/Vue.js-3fb984.svg?&style=for-the-badge&logo=Vue.js&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/Bootstrap-712cf9.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/element-409eff.svg?&style=for-the-badge&logo=element&logoColor=white">]()
 
 ## Tools I Use 🔧
 
-[//]: # (vsocde,webstorm)
 
-[//]: # (vscode，#339feb)
-
-[//]: # (webstorm，#07c3f2)
-
-[//]: # (idea，#ad4993)
-
-[//]: # (aws，Amazon Web Services，#ff9900)
-
-[//]: # (gcp，Google Cloud Platform，#e34133)
-
-[//]: # (pycharm，#16ceb4)
-
-[//]: # (navicat，#f7d856)
-
-[//]: # (postman，#ff6c37)
-
-[//]: # (npm,CB3837)
-
-[//]: # (eslint,#4930bd)
-[<img src = "https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/ESLint-4930bd.svg?&style=for-the-badge&logo=ESLint&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white">]()
-
-
-[//]: # (ubuntu,xshell,powershell,)
-
-[//]: # (ubuntu，#f45f00)
-
-[//]: # (powershell，#2c4562)
-
-[//]: # (xshell，#f2473f)
-[<img src = "https://img.shields.io/badge/AWS-ff9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/alibabacloud-FF6A00.svg?&style=for-the-badge&logo=alibabacloud&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/google-e34133.svg?&style=for-the-badge&logo=google&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/Ubuntu%20VM-f45f00.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/powershell-2c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white">]()
-
-
-[//]: # (idea,pycharm,anaconda,postman,navicat,)
-[<img src = "https://img.shields.io/badge/IntelliJ%20IDEA-ad4993.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/pycharm-16ceb4.svg?&style=for-the-badge&logo=pycharm&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/Postman-ff6c37.svg?&style=for-the-badge&logo=Postman&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">]()
-[<img src = "https://img.shields.io/badge/notepad%2B%2B-90E59A.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=black">]()
-
-
-[//]: # (aws,gcp,阿里云)
 
 ## Find me around the web 🌏:
 
-[<img src = "https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec">](https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0)
-[<img src = "https://img.shields.io/badge/君王-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wo1261931780)
-[<img src = "https://img.shields.io/badge/junw-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/junw.junw.180)
-[<img src = "https://img.shields.io/badge/刘佳珺junw-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
-[<img src = "https://img.shields.io/badge/junwang7789-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff0047">](https://www.instagram.com/wo1261931780/)
-[<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
-
-[//]: # ([<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=alipay&logoColor=white&color=d52c2b">]&#40;https://weibo.com/u/6511079715&#41;)
 
 <p >
     <span >work：</span>
@@ -185,7 +83,6 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/>
 
-[//]: # (这里的问题需要解决)
 
 </div>
 
@@ -196,13 +93,6 @@ system. I will maintain some notes on github for learning the code.
 [//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6&#41;]&#40;https://git.io/streak-stats&#41;)
 
 [<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
-
-
-[//]: # (所有信息的统计展示)
-
-[//]: # (![Metrics]&#40;https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo&#41;)
-
-[<img src = "https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo">]()
 
 
 </div>
