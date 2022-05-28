@@ -3,8 +3,6 @@
   <br>st-java.github.io<br>
 </h1>
 
----
-
 <p align="center">A note-taking project developed using jdk17. To record my course notes on learning java and to help zero-based developers start on the path to code.</p>
 
 <div align="center">
@@ -87,6 +85,11 @@ project. Special thanks to
 ---
 
 [//]: # (感谢jetbrains提供的证书)
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 <div align="center">Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.</div>
 

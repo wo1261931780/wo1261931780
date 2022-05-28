@@ -37,7 +37,6 @@
 - [x] GitLab CE/EE support (Database-as-Code, login with GitLab account, project membership sync)
 - [ ] GitLab.com support
 
-
 ## Constructing tools
 
 <p>
@@ -89,5 +88,10 @@ project. Special thanks to
 ---
 
 [//]: # (感谢jetbrains提供的证书)
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 <div align="center">Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.</div>

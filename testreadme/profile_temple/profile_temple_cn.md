@@ -88,5 +88,10 @@
 ---
 
 [//]: # (感谢jetbrains提供的证书)
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">JetBrains提供证书支持</a></h3>
 <div align="center">IntelliJ IDEA 的每个方面都旨在最大化开发者生产力。结合智能编码辅助与符合人体工程学的设计，让开发不仅高效，更成为一种享受。</div>

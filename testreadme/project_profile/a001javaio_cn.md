@@ -3,8 +3,6 @@
   <br>st-java.github.io<br>
 </h1>
 
----
-
 <p align="center">一个用jdk17开发的记事本项目。用来记录我学习java的课程笔记，并帮助零基础的开发者开始走上代码之路。</p>
 
 <div align="center">
@@ -87,5 +85,12 @@
 ---
 
 [//]: # (感谢jetbrains提供的证书)
-<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">JetBrains提供证书支持</a></h3>
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
+<h3 align="center">
+<a href="https://jb.gg/OpenSourceSupport">JetBrains提供证书支持</a>
+</h3>
 <div align="center">IntelliJ IDEA 的每个方面都旨在最大化开发者生产力。结合智能编码辅助与符合人体工程学的设计，让开发不仅高效，更成为一种享受。</div>
