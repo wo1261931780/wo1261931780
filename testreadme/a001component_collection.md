@@ -1,3 +1,13 @@
+[//]: # (所有链接的标准格式)
+
+[//]: # (<img src="" > )
+
+[//]: # (<img src="" style="margin-bottom: 4px;" height="30px"> )
+
+[//]: # ( <a href=""><img src="" target="_blank"></a> )
+
+[//]: # ( <a href=""><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a> )
+
 ## 组件备份
 
 [//]: # (分割线组件)
@@ -39,22 +49,20 @@
 [//]: # (打卡逐点出现)
 
 <img src="https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg" >
-<!-- <img src="" style="margin-bottom: 4px;" height="30px"> -->
-<!-- <a href=""><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a> -->
 
 ---
 
-
 [//]: # (单个项目的看板)
-![Alt](https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics image")
+<img src="https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics
+image"" >
 ---
 
 [//]: # (被收藏的次数，折线图)
 
 [//]: # (我还没有stars，所以直接为空)
-[![Star History Chart](https://api.star-history.com/svg?repos=fanux/sealos&type=Date)](https://star-history.com/#fanux/sealos&Date)
----
+<a href="https://star-history.com/#fanux/sealos&Date"><img src="https://api.star-history.com/svg?repos=fanux/sealos&type=Date"  target="_blank"></a>
 
+---
 
 [//]: # (git的旭日图)
 <a href="https://github.com/yihong0618/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
@@ -62,17 +70,17 @@
 
 [//]: # (每30天的git状态)
 
-[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+
 ---
 
-
 [//]: # (更多内容需要手动设置secret key)
-[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/0-profile-details.svg" target="_blank"></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/1-repos-per-language.svg" target="_blank"></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg" target="_blank"></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/3-stats.svg" target="_blank"></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg" target="_blank"></a>
 
 ---
 
@@ -84,14 +92,6 @@
 Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better
 project. Special thanks to
 
-[//]: # (- [@vkbansal]&#40;https://github.com/vkbansal&#41;, who provided significant early feedback throughout the early releases.)
-
-[//]: # (- [@rainabba]&#40;https://github.com/rainabba&#41; and [@sullivanpt]&#40;https://github.com/sullivanpt&#41; for getting Node v4 support integrated.)
-
-[//]: # (- [@s-h-a-d-o-w]&#40;https://github.com/s-h-a-d-o-w&#41; who resolved the longstanding space escaping issue in path names &#40;[#355]&#40;https://github.com/coreybutler/nvm-windows/pull/355&#41;&#41;.)
-
-[//]: # (- [ajyong]&#40;https://github.com/ajyong&#41; who sponsored the code signing certificate in late 2021.)
-
 <div align="center">
 <a href="https://github.com/wo1261931780/st-java.github.io/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wo1261931780/st-java.github.io" />
@@ -101,32 +101,27 @@ project. Special thanks to
 ---
 
 [//]: # (证书感谢备份)
-  </p>
 <a href="https://jb.gg/OpenSourceSupport">
 <p align="center">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
 </p>
 </a>
+
+[//]: # (感谢jetbrains提供的证书)
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 A dynamically generated activity graph to show your GitHub activities of last 31 days.
 
 [//]: # (star数量，随着时间展示)
-[![starcharts stargazers over time](https://starchart.cc/wo1261931780/st-java.github.io.svg)](https://starchart.cc/wo1261931780/st-java.github.io)
-
-
-
+<a href="https://starchart.cc/wo1261931780/st-java.github.io"><img src="https://starchart.cc/wo1261931780/st-java.github.io.svg" target="_blank"></a>
 
 ---
 
 ### ✍️Random Dev Quote
 
 [//]: # (引用文字)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
 
 ---
-
 
 <details>
   <summary><b>📈&nbsp;&nbsp;组件折叠</b></summary>
@@ -147,7 +142,7 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 ---
 
 [//]: # (贪吃蛇展示git状态)
-![](https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/phh95/phh95/main/assets/github-contribution-grid-snake.svg" >
 
 ---
 
@@ -195,9 +190,7 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 ---
 
 [//]: # (竖线图组件)
-
-[![Translation status](https://hosted.weblate.org/widgets/sagernet/-/horizontal-auto.svg)](https://hosted.weblate.org/engage/sagernet/)
-
+<a href="https://hosted.weblate.org/engage/sagernet/"><img src="https://hosted.weblate.org/widgets/sagernet/-/horizontal-auto.svg" target="_blank"></a>
 
 ---
 
@@ -227,17 +220,14 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 ## License
 
 This software is released under the GPL-3.0 license.
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large" target="_blank"></a>
 
 ---
-
 
 [//]: # (居中组件)
 <h1 align="center">
   <br>Clash<br>
 </h1>
-
 
 ---
 
@@ -264,12 +254,7 @@ This software is released under the GPL-3.0 license.
 
 [//]: # (所有信息的统计展示)
 
-[//]: # (![Metrics]&#40;https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo&#41;)
-
 [<img src = "https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo">]()
-
-
-[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
 
 [//]: # (这里全部该改成折叠展示)
 <div ALIGN = "center">
@@ -282,10 +267,6 @@ This software is released under the GPL-3.0 license.
 </div>
 
 <div ALIGN = "center">
-
-[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
-
-[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6&#41;]&#40;https://git.io/streak-stats&#41;)
 
 [<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
 
@@ -307,4 +288,4 @@ This software is released under the GPL-3.0 license.
 
 [//]: # (音乐组件)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugdy26ewqkyhuxownyfync35uy&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugdy26ewqkyhuxownyfync35uy&cover_image=true&theme=compact" target="_blank"></a>
