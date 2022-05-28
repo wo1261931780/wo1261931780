@@ -150,12 +150,12 @@ system. I will maintain some notes on github for learning the code.
   <br>
 <div align="center">
 
-[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
 
 <div ALIGN = "center">
 
 [<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
-
 
 </div>
 
@@ -170,7 +170,7 @@ system. I will maintain some notes on github for learning the code.
 <div align="center">
 
 [//]: # (自己账号的被查看次数)
-<img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil"/>
+<img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views"/>
 
 </div>
 </div>

@@ -53,8 +53,8 @@
 ---
 
 [//]: # (单个项目的看板)
-<img src="https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics
-image"" >
+<img src="https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics image"" >
+
 ---
 
 [//]: # (被收藏的次数，折线图)
@@ -268,6 +268,7 @@ This software is released under the GPL-3.0 license.
 
 <div ALIGN = "center">
 
+[//]: # (连续提交次数统计)
 [<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
 
 </div>
