@@ -150,8 +150,8 @@ system. I will maintain some notes on github for learning the code.
   <br>
 <div align="center">
 
- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg"  target="_blank"></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg"  target="_blank"></a>
 
 <div ALIGN = "center">
 
