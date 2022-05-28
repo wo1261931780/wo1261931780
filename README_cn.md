@@ -121,9 +121,6 @@
 
 <details>
   <summary><b>更多统计数据 📈</b></summary>
-  <br>
-
----
 
 <div align="center">
 
@@ -131,7 +128,7 @@
 
 [//]: # (这里不能统一div，不然无法排版)
 
-[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg) ![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)
 
 <div ALIGN = "center">
 
