@@ -8,21 +8,22 @@
 😎🙈😅😅👻👨‍💻💫
 
 ---
-
+<!-- <img src="" style="margin-bottom: 4px;" height="30px"> -->
+<!-- <a href=""><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a> -->
 
 <div align="center">
 
 [//]: # (wakatime小徽章)
-<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46.svg" alt="wakatime">
+<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46.svg?logoColor=%56ccf2&style=flat-square" alt="wakatime"  style="margin-bottom: 4px;" height="30px" target="_blank">
 
 [//]: # (每周提交记录)
-<img src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?logoColor=%56ccf2&style=flat-square" >
+<img src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?logoColor=%56ccf2&style=flat-square"  style="margin-bottom: 4px;" height="30px" target="_blank">
 
 [//]: # (证书类型)
-<img src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=flat-square" alt="GitHub"/>
+<img src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=flat-square" alt="GitHub"  style="margin-bottom: 4px;" height="30px" target="_blank">
 
 [//]: # (最近一次提交)
-<img src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?style=flat-square" alt="GitHub"/>
+<img src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?style=flat-square" alt="GitHub" style="margin-bottom: 4px;" height="30px" target="_blank">
 
 </div>
 
@@ -36,7 +37,11 @@
 ---
 
 [//]: # (打卡逐点出现)
-![](https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg)
+
+<img src="https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg" >
+<!-- <img src="" style="margin-bottom: 4px;" height="30px"> -->
+<!-- <a href=""><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a> -->
+
 ---
 
 

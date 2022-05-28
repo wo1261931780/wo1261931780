@@ -51,16 +51,9 @@ system. I will maintain some notes on github for learning the code.
 
 ## My Skills 🚀
 
-
-
-
-
 ## Tools I Use 🔧
 
-
-
 ## Find me around the web 🌏:
-
 
 <p >
     <span >work：</span>
@@ -75,22 +68,23 @@ system. I will maintain some notes on github for learning the code.
 
 ## Some statistics 💪💪💪:
 
-[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
-
 [//]: # (这里全部该改成折叠展示)
 <div ALIGN = "center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/>
 
-
 </div>
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;更多统计</b></summary>
+  <br>
+
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 <div ALIGN = "center">
-
-[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
-
-[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6&#41;]&#40;https://git.io/streak-stats&#41;)
 
 [<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
 
@@ -111,7 +105,7 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=viewsUtil"/>
 
 </div>
-
+</details>
 <div align="center">
 
 [//]: # (萝莉举牌，自己账号的被查看次数)

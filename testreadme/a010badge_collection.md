@@ -1,5 +1,8 @@
 ---
 
+<!-- <img src="" style="margin-bottom: 4px;" height="30px"> -->
+<!-- <a href=""><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a> -->
+
 ## 🔧使用工具-ide
 
 <img src="https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -77,7 +80,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<!-- <img src="" style="margin-bottom: 4px;" height="30px"> -->
 </p>
 
 ## 社交粉丝
@@ -100,7 +102,7 @@
 [//]: # (wakatime)
 
 [//]: # (每周提交次数)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge)
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
 
 [//]: # (每月提交次数)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
@@ -110,7 +112,7 @@
 
 
 [//]: # (查看次数)
-[![](https://visitcount.itsvg.in/api?id=1&icon=2&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1&icon=2&color=1" style="margin-bottom: 4px;"  target="_blank"></a>
 
 ## wakatime徽章
 
@@ -126,7 +128,14 @@
 ## 捐献
 
 [//]: # (捐献，这里还没有绑定账号)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/re) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/re) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/re) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/re)
+<!-- <img src="" style="margin-bottom: 4px;" height="30px"> -->
+
+<a href="https://ko-fi.com/re"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://patreon.com/re"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href=""><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://buymeacoffee.com/re"><img src="" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://paypal.me/re"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+
 
 [//]: # (颜色转换，其实都是hex格式的，但是markdown序言将井号变成%23)
 
