@@ -133,15 +133,16 @@ system. I will maintain some notes on github for learning the code.
   <summary><b>More statistics 📈</b></summary>
   <br>
 
----
-
 <div align="center">
 
 [//]: # (环形图统计提交语言)
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg"  target="_blank"></a>
+
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [//]: # (提交时间分布UTC-0)
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg"  target="_blank"></a>
+
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <div ALIGN = "center">
 
