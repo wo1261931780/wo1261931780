@@ -106,6 +106,9 @@
 
 [//]: # (wakatime)
 
+[//]: # (开源证书)
+<img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=for-the-badge" >
+
 [//]: # (每周提交次数)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
 
@@ -114,7 +117,6 @@
 
 [//]: # (最近一次提交)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
-
 
 [//]: # (查看次数)
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1&icon=2&color=1" style="margin-bottom: 4px;"  target="_blank"></a>

@@ -7,7 +7,6 @@
 [//]: # ( st-ssm.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/66ed964039388308895c005151b626242f0d011c.svg "Repobeats analytics image")
 
-
 [//]: # (st-vue.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/149e160ed6346c7dedeea5ad50e7e78d6cda8328.svg "Repobeats analytics image")
 
