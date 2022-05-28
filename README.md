@@ -68,7 +68,7 @@ system. I will maintain some notes on github for learning the code.
 
 ## Tools I Use 🔧
 
-<p>
+<div style="display: inline-block;">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fd266a.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -91,7 +91,12 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+</div>
+<div style="display: inline-block;">
+
+![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/3-stats.svg)
+
+</div>
 
 ## Find me around the web 🌏:
 
@@ -135,14 +140,11 @@ system. I will maintain some notes on github for learning the code.
 
 <div align="center">
 
-[//]: # (环形图统计提交语言)
+[//]: # (环形图统计提交语言,提交时间分布UTC-0)
 
-[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[//]: # (这里不能统一div，不然无法排版)
 
-[//]: # (提交时间分布UTC-0)
-
-
-
+![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg) ![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)
 
 <div ALIGN = "center">
 

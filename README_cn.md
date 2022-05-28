@@ -1,4 +1,5 @@
 ### 我是刘佳珺，你也可以叫我junw👋👋.
+
 <img src="src/banner.png" />
 
 ## 无论如何，感谢访问我的主页🌏:
@@ -20,7 +21,8 @@
 - 🏦 在银行全职做**java开发**。
 
 
-- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
+- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)
+  ，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
 
 
 - 🎓 毕业于**集美大学**，欢迎各位校友互fo。
@@ -60,7 +62,7 @@
 
 ## 我的工具 🔧🔨
 
-<p>
+<div style="display: inline-block;">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fd266a.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -83,7 +85,12 @@
 <img src="https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+</div>
+<div style="display: inline-block;">
+
+![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/3-stats.svg)
+
+</div>
 
 ## 你可以在这些地方找到我 🌏:
 
@@ -121,18 +128,18 @@
 </div>
 
 <details>
-  <summary><b>More statistics 📈</b></summary>
+  <summary><b>更多统计数据 📈</b></summary>
   <br>
 
 ---
 
 <div align="center">
 
-[//]: # (环形图统计提交语言)
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg"  target="_blank"></a>
+[//]: # (环形图统计提交语言,提交时间分布UTC-0)
 
-[//]: # (提交时间分布UTC-0)
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg"  target="_blank"></a>
+[//]: # (这里不能统一div，不然无法排版)
+
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div ALIGN = "center">
 
