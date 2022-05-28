@@ -89,8 +89,8 @@
 ## 社交粉丝
 
 <p>
-<a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://weibo.com/u/6511079715"><img src="https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <br/>
 <a href="https://www.youtube.com/c/wo1261931780@gmail.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/junwang7789"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>

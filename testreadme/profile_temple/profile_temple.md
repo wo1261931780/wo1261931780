@@ -1,11 +1,11 @@
 [//]: # (居中组件)
 <h1 align="center">
-  <br>项目名<br>
+  <br>Project Name<br>
 </h1>
 
 ---
 
-<p align="center">项目介绍………………………………………………</p>
+<p align="center">Project Introduction………………………………………………</p>
 
 <div align="center">
 
@@ -17,6 +17,12 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
 
+<p align="center">
+    <a href="profile_temple.md">English</a>
+    ·
+    <a href="./profile_temple_cn.md">简体中文</a>    
+<p/>
+
 ![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
 </div>
 
@@ -27,12 +33,12 @@
 ## Features
 
 - [x] ClickHouse support
+- [x] ClickHouse support
 - [x] GitLab CE/EE support (Database-as-Code, login with GitLab account, project membership sync)
-- [x] Webhook integration for Slack, Discord, MS Teams, DingTalk(钉钉), Feishu(飞书), WeCom(企业微信)
 - [ ] GitLab.com support
 
 
-## 构造工具
+## Constructing tools
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -40,11 +46,11 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fd266a.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 关注我
+## Follow me
 
 <p>
-<a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://weibo.com/u/6511079715"><img src="https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <br/>
 <a href="https://www.youtube.com/c/wo1261931780@gmail.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/junwang7789"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -56,7 +62,7 @@
 <a href="https://leetcode.com/junw"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 捐献
+## Donation
 
 [//]: # (捐献，这里还没有绑定账号)
 <div>
@@ -84,4 +90,4 @@ project. Special thanks to
 
 [//]: # (感谢jetbrains提供的证书)
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
-<div align="center">A dynamically generated activity graph to show your GitHub activities of last 31 days.</div>
+<div align="center">Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.</div>
