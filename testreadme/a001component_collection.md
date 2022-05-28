@@ -53,8 +53,7 @@
 ---
 
 [//]: # (单个项目的看板)
-<img src="https://repobeats.axiom.co/api/embed/10ce83c1d8452210bc4a0b5a5df9d59bbc35d889.svg "Repobeats analytics image"" >
-
+![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
 ---
 
 [//]: # (被收藏的次数，折线图)

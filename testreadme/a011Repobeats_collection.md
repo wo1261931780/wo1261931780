@@ -1,7 +1,6 @@
 [//]: # (st-java.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
 
-
 [//]: # (st-leetcode.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/d80955950a9cc802a9f36426bc3759d8119d5820.svg "Repobeats analytics image")
 
