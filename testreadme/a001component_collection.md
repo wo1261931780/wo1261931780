@@ -63,8 +63,12 @@
 
 
 [//]: # (更多内容需要手动设置secret key)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wo1261931780&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wo1261931780&theme=default)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 ---
 
 
@@ -122,8 +126,9 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 <details>
   <summary><b>📈&nbsp;&nbsp;组件折叠</b></summary>
   <br>
-  <img src='https://github-profile-trophy.vercel.app/?username=iota9star'>
-</details>
+
+[//]: # (奖杯展示)
+<img  src="https://github-profile-trophy.vercel.app/?username=wo1261931780&theme=onedark&no-bg=true" />
 
 ---
 
@@ -237,6 +242,7 @@ This software is released under the GPL-3.0 license.
 ---
 
 [//]: # (复选框组件)
+
 ## Features
 
 - [x] ClickHouse support
@@ -244,3 +250,56 @@ This software is released under the GPL-3.0 license.
 - [x] Webhook integration for Slack, Discord, MS Teams, DingTalk(钉钉), Feishu(飞书), WeCom(企业微信)
 - [ ] GitLab.com support
 
+<div align="center">
+
+[//]: # (萝莉举牌，自己账号的被查看次数)
+<img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
+
+</div>
+
+[//]: # (所有信息的统计展示)
+
+[//]: # (![Metrics]&#40;https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo&#41;)
+
+[<img src = "https://metrics.lecoq.io/wo1261931780?template=classic&languages=1&isocalendar=1&achievements=1&discussions=1&lines=1&repositories=1&gists=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.aliases=C%2C%20C%2B%2B%2C%20Assembly&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FSao_Paulo">]()
+
+
+[//]: # ([![Ashutosh's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal&#41;]&#40;https://github.com/wo1261931780/st-java.github.io&#41;)
+
+[//]: # (这里全部该改成折叠展示)
+<div ALIGN = "center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/>
+
+[//]: # (这里的问题需要解决)
+
+</div>
+
+<div ALIGN = "center">
+
+[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[//]: # ([![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
+
+</div>
+<p >
+    <span >work：</span>
+    <a text="work">wo1261931780@gmail.com</a>
+    ·
+    <span >wechat：</span>
+    <a text="work">wo1261931780</a>
+    ·
+    <span >Personal：</span>
+    <a text="work">642344572@qq.com</a>    
+<p/>
+
+
+<img src="src/banner.png" />
+</details>
+
+[//]: # (音乐组件)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugdy26ewqkyhuxownyfync35uy&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)

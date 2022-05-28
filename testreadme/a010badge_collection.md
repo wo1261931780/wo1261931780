@@ -1,4 +1,32 @@
-## 💻 Skills
+---
+
+## 🔧使用工具-ide
+
+## 🔧使用工具-Linux
+
+## 🔧使用工具-test
+
+## 🔧使用工具-other
+
+[<img src = "https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Ubuntu%20VM-f45f00.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/powershell-2c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/IntelliJ%20IDEA-ad4993.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/pycharm-16ceb4.svg?&style=for-the-badge&logo=pycharm&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/notepad%2B%2B-90E59A.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=black">]()
+[<img src = "https://img.shields.io/badge/element-409eff.svg?&style=for-the-badge&logo=element&logoColor=white">]()
+
+---
+
+# 💻技术栈-前端
+
+# 💻技术栈-前端-框架
+
+# 💻技术栈-后端
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -13,11 +41,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
-
-
----
-
-# 💻Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -45,10 +68,9 @@
 
 ## 社交粉丝
 
-[<img src = "https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec">](https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0)
-[<img src = "https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b">](https://weibo.com/u/6511079715)
-
 <p>
+<a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://weibo.com/u/6511079715"><img src="https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://linkedin.com/in/%E5%88%98%E4%BD%B3%E7%8F%BAjunw"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/wo1261931780"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/wo1261931780"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -67,158 +89,91 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge)
 
 [//]: # (每月提交次数)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
-
-[//]: # (#ca3e47)
-[//]: # (%23ca3e47)
 
 [//]: # (最近一次提交)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
-
-[//]: # (最近一次提交)
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
-
-## ide工具
-
-## 云服务
-
-## 项目使用技术
-
-## 语言
-
-## 项目工具
-
-## 社交工具
-
-## 捐献
-
-## 项目模板
-
-### 开源证书
-
-### 项目语言
-
-### 项目版本，node之类
-
-### 更新统计
-
-### 关注我
-
-### 捐献
-
-## 💰You can help me by Donating
-
-[//]: # (捐献，这里还没有绑定账号)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/re) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/re) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/re) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/re)
 
 
 [//]: # (查看次数)
 [![](https://visitcount.itsvg.in/api?id=1&icon=2&color=1)](https://visitcount.itsvg.in)
 
+## wakatime徽章
 
-[//]: # (python，#e54c21)
+[//]: # (所有时间统计)
+<a href="https://wakatime.com/@2e3dbad1-9754-4463-8b48-badfed379466"><img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466.svg" alt="Total time coded since Oct 28 2021" /></a>
 
-[//]: # (anaconda，#e54c21)
+[//]: # (st-java.github.io统计)
+<a href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903"><img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903.svg" alt="wakatime"></a>
 
-[//]: # (java，#e54c21)
+[//]: # (ssm项目统计)
+<a href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46"><img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46.svg" alt="wakatime"></a>
 
-[//]: # (mysql，#e54c21)
+## 捐献
 
-[//]: # (spring，#e54c21)
+[//]: # (捐献，这里还没有绑定账号)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/re) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/re) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/re) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/re)
 
-[//]: # (nginx，#e54c21)
+[//]: # (颜色转换，其实都是hex格式的，但是markdown序言将井号变成%23)
 
-[//]: # (git，#e54c21)
+[//]: # (#ca3e47)
 
-[//]: # (linux，#e54c21)
+[//]: # (%23ca3e47)
 
-[//]: # (css3，#e54c21)
+---
 
-[//]: # (javascript，#e54c21)
+## 颜色备份
 
-[//]: # (html5，#e54c21)
+[//]: # (java，mysql，spring,)
 
-[//]: # (Vue.js，#e54c21)
-
-[//]: # (Bootstrap，#e54c21)
-
-[//]: # (element，#e54c21)
-
-[//]: # (vsocde，#e54c21)
-
-[//]: # (webstorm，#e54c21)
-
-[//]: # (idea，#e54c21)
-
-[//]: # (aws，#e54c21)
-
-[//]: # (gcp，#e54c21)
-
-[//]: # (pycharm，#e54c21)
-
-[//]: # (navicat，#e54c21)
-
-[//]: # (postman，#e54c21)
-
-[//]: # (npm，#e54c21)
-
-[//]: # (eslint，#e54c21)
-
-[//]: # (ubuntu，#e54c21)
-
-[//]: # (node，#e54c21)
-
-[//]: # (oracle，#e54c21)
-
-[//]: # (alibabacloud，#e54c21)
-
-[//]: # (Cloudflare，#e54c21)
-
-[//]: # (Ubuntu，#e54c21)
-
-[//]: # (powershell，#e54c21)
-
-[//]: # (Postman，#e54c21)
-
-[//]: # (sonarlint，#e54c21)
-
-[//]: # (notion，#e54c21)
-
-[//]: # (notepad，#e54c21)
-
-[//]: # (twitter，#e54c21)
-
-[//]: # (linkedin，#e54c21)
-
-[//]: # (facebook，#e54c21)
-
-[//]: # (instagram，#e54c21)
+[//]: # (git，linux)
 
 [//]: # (html，#e54c21)
 
-[//]: # (html，#e54c21)
+[//]: # (css，#214ce5)
 
-[//]: # (html，#e54c21)
+[//]: # (vue，#3fb984，#31475e)
 
-[//]: # (html，#e54c21)
+[//]: # (node，#689f63)
 
-[//]: # (html，#e54c21)
+[//]: # (bootstrap，#712cf9)
 
-[//]: # (html，#e54c21)
+[//]: # (elementui，#409eff)
 
-[//]: # (html，#e54c21)
+[//]: # (vsocde,webstorm)
 
-[//]: # (html，#e54c21)
+[//]: # (vscode，#339feb)
 
-[//]: # (，Amazon Web Services，#ff9900)
+[//]: # (webstorm，#07c3f2)
 
-[//]: # (，Google Cloud Platform，#e34133)
+[//]: # (idea，#ad4993)
+
+[//]: # (aws，Amazon Web Services，#ff9900)
+
+[//]: # (gcp，Google Cloud Platform，#e34133)
+
+[//]: # (pycharm，#16ceb4)
+
+[//]: # (navicat，#f7d856)
+
+[//]: # (postman，#ff6c37)
+
+[//]: # (npm,CB3837)
+
+[//]: # (eslint,#4930bd)
+
+[//]: # (ubuntu，#f45f00)
+
+[//]: # (powershell，#2c4562)
+
+[//]: # (xshell，#f2473f)
+
+[//]: # (vue，bootstrap，element)
+
+---
+
+
+
+
 
 
