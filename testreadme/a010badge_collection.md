@@ -43,8 +43,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
 ## 社交粉丝
 
 [<img src = "https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec">](https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0)
@@ -63,8 +61,22 @@
 
 ## 🌟 Github Badges
 
-<p>
-</p>
+[//]: # (wakatime)
+
+[//]: # (每周提交次数)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge)
+
+[//]: # (每月提交次数)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge)
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
+
+[//]: # (#ca3e47)
+[//]: # (%23ca3e47)
+
+[//]: # (最近一次提交)
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
+
+[//]: # (最近一次提交)
 
 ## 🏆 GitHub Trophies
 
