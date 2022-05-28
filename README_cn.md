@@ -62,7 +62,7 @@
 
 ## 我的工具 🔧🔨
 
-<div style="display: inline-block;">
+<div style="display: inline-block;width: 50%;">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fd266a.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </div>
-<div style="display: inline-block;">
+<div style="display: inline-block;width: 50%;">
 
 ![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/3-stats.svg)
 
