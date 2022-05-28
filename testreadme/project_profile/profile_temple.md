@@ -4,35 +4,21 @@
 </h1>
 
 ---
+
 <p align="center">项目介绍………………………………………………</p>
 
-<div>
+<div align="center">
 
-<img href="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46">
-
-</div>
-
-<p align="center">
 <img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=for-the-badge" >
 <img src="https://img.shields.io/badge/java-17-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" >
-<img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views"/>
-
-[//]: # (wakatime总时长)
+<img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views">
 <img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime" >
-
-[//]: # (每周提交次数)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
-
-[//]: # (每月提交次数)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
-
-[//]: # (最近一次提交)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
 
-[//]: # (st-java.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/45a614ea242e2cdb9bb06d089e86d2784c4fa8c8.svg "Repobeats analytics image")
-
-</p>
+</div>
 
 ## Features
 
