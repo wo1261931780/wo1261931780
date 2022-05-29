@@ -13,6 +13,10 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
+<p>
+  <img  align='right' src="src/QR_code.jpg" width="200px" width="200px" />
+</p>
+
 ## 我的一些信息💫:
 
 - 🧬 本科分子生物，毕业后转计算机。
