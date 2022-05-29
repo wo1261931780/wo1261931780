@@ -18,6 +18,10 @@ system. I will maintain some notes on github for learning the code.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
+<p>
+  <img  align='right' src="src/QR_code.jpg">
+</p>
+
 ## Couple things about me💫:
 
 - 🧬 Bachelor's degree in molecular biology.
