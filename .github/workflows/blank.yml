@@ -44,13 +44,6 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: wo1261931780
           plugin_base_indepth: yes
           plugin_calendar: yes
           plugin_calendar_limit: 1
@@ -80,7 +73,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -134,6 +126,7 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 16463591
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_stars: yes
@@ -142,12 +135,12 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: wo1261931780
+          plugin_tweets_user: 君王
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: wo1261931780
+          plugin_wakatime_user: 642344572@qq.com
           repositories_forks: yes
