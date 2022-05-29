@@ -1,54 +1,48 @@
-### I'm JUNW.You can also call me Liu Jiajun👋👋.
+### 我是刘佳珺，你也可以叫我junw👋👋.
 
 <img src="src/banner.png" />
 
-## Thanks for visiting my profile page🌏:
+## 无论如何，感谢访问我的主页🌏:
 
 <p align="center">
     <a href="README.md">English</a>
     ·
     <a href="./README_cn.md">简体中文</a>    
 <p/>
-Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switched from molecular biology to computer
-science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
-system. I will maintain some notes on github for learning the code.
-
-
-[//]: # (折线图出现异常)
+你好，我是一名来自中国的java工程师，你可以叫我刘佳珺或者junw。本科分子生物学转行cs，目前作为java开发，在一家银行做数据中台和业务系统的相关工作。在github上会维护一些学习代码的笔记，希望能帮到你。
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
-## Couple things about me💫:
+## 我的一些信息💫:
 
-- 🧬 Bachelor's degree in molecular biology.
-
-
-- 🏦 Currently working full time in a bank as a **java developer**.
+- 🧬 本科分子生物，毕业后转计算机。
 
 
-- 💻 You can find me on  [linkedin](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
-  ,[Twitter](https://twitter.com/home), [Weibo](https://weibo.com/u/6511079715)
-  ,[Instagram](https://www.instagram.com/junwang7789/).
+- 🏦 在银行全职做**java开发**。
 
 
-- 🎓 Graduated from **Jimei University**, welcome all alumni to mutual follow me.
+- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)
+  ，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
 
 
-- 📋 Preparing to stay in **the United States**, welcome friends with experience to share.
+- 🎓 毕业于**集美大学**，欢迎各位校友互fo。
 
 
-- 💪 Jiangxi native, currently settled in Xiamen, waiting for a good **job opportunity** for a long time.
+- 📋 准备**留学润美**，欢迎有经验的小伙伴互fo。
 
 
-- 💌 Single, maybe you can find a girlfriend here? It is not impossible to meet girlfriends here🤣🤣🤣.
+- 💪 江西人，base厦门，长期等一个好的工作机会。
 
 
-- 🚀 Active on GitHub and participate the development with many projects and repositories.
+- 💌 单身。也许这里能找到女朋友？也不是不行🤣🤣🤣。
 
 
-- 😂 ~~The rest of the content has not yet been thought of~~.
+- 🚀 其实还不够活跃，尚在爬坑。
 
-## My Skills 🚀
+
+- 😂 ~~剩下的东西还没想好。~~
+
+## 我的技能 🚀
 
 <p>
 <img src="https://img.shields.io/badge/html5-%231572b6.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -65,48 +59,57 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://img.shields.io/badge/Anaconda-%23ED8B00.svg?style=for-the-badge&logo=anaconda&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## Tools I Use 🔧
+## 我的工具 🔧🔨
 
 <p >
-<img src="https://img.shields.io/badge/NPM-%232c4562.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/ESLint-%232c4562.svg?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/AWS-%232c4562.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/NPM-%236DA55F.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/ESLint-%236DA55F.svg?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Oracle-%23FF9900?style=for-the-badge&logo=oracle&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Google%20Cloud-%23FF9900.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Ubuntu%20VM-%232c4562.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/powershell-%232c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <br/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23CB2029.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/webstorm-%23CB2029.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23339feb.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/webstorm-%23339feb.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/VS%20Code-%23339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<br/>
+<img src="https://img.shields.io/badge/sonarlint-%23CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Postman-%23CB2029.svg?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-%23CB2029.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/notepad%2B%2B-%23F05033.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/jenkins-%23F05033.svg?style=for-the-badge&logo=jenkins&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## Find me around the web 🌏:
+## 你可以在这些地方找到我 🌏:
 
 <p>
 <a href="https://www.youtube.com/c/wo1261931780@gmail.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://weibo.com/u/6511079715"><img src="https://img.shields.io/badge/佳珺不谈恋爱-%181717.svg?&style=for-the-badge&logo=sina-weibo&logoColor=white&color=d52c2b" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/junwang7789"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://stackoverflow.com/users/JUNW555"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://stackoverflow.com/users/JUNW555"><img src="https://img.shields.io/badge/-Stackoverflow-%23FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <br/>
 <a href="https://linkedin.com/in/%E5%88%98%E4%BD%B3%E7%8F%BAjunw"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.facebook.com/Junw%20Junw"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="htttps://discord.gg/wo1261931780"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/wo1261931780"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://leetcode.com/junw"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://leetcode.com/junw"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 <p >
-    <span >work：</span>
+    <span >工作邮箱：</span>
     <a text="work">wo1261931780@gmail.com</a>
     ·
-    <span >wechat：</span>
+    <span >个人微信：</span>
     <a text="work">wo1261931780</a>
     ·
-    <span >Personal：</span>
+    <span >私人邮箱：</span>
     <a text="work">642344572@qq.com</a>    
 <p/>
 
-## Some statistics 💪💪💪:
+## 部分统计数据 💪💪💪:
 
 <div ALIGN = "center">
 
@@ -115,10 +118,8 @@ system. I will maintain some notes on github for learning the code.
 
 </div>
 
-
 <details>
-  <summary><b>More statistics 📈</b></summary>
-  <br>
+  <summary><b>更多统计数据 📈</b></summary>
 
 <div align="center">
 
@@ -158,9 +159,4 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
 
 </div>
-
-
-
-
-
 

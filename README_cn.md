@@ -62,25 +62,16 @@
 ## 我的工具 🔧🔨
 
 <p >
-<img src="https://img.shields.io/badge/NPM-%236DA55F.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/ESLint-%236DA55F.svg?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Oracle-%23FF9900?style=for-the-badge&logo=oracle&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Google%20Cloud-%23FF9900.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/NPM-%232c4562.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/ESLint-%232c4562.svg?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/AWS-%232c4562.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Ubuntu%20VM-%232c4562.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/powershell-%232c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <br/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23339feb.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/webstorm-%23339feb.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/VS%20Code-%23339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<br/>
-<img src="https://img.shields.io/badge/sonarlint-%23CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23CB2029.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/webstorm-%23CB2029.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Postman-%23CB2029.svg?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-%23CB2029.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/notepad%2B%2B-%23F05033.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/jenkins-%23F05033.svg?style=for-the-badge&logo=jenkins&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 你可以在这些地方找到我 🌏:
