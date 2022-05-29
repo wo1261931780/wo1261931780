@@ -50,7 +50,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login
+          plugin_anilist_user: wo1261931780
           plugin_base_indepth: yes
           plugin_calendar: yes
           plugin_calendar_limit: 1
