@@ -121,6 +121,17 @@
 [//]: # (查看次数)
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1&icon=2&color=1" style="margin-bottom: 4px;"  target="_blank"></a>
 
+## 项目徽章
+
+
+<img src="https://img.shields.io/badge/java-17-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" >
+<img src="https://img.shields.io/badge/Spring-2.70-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" >
+<img src="https://img.shields.io/badge/maven-3.81-%23C71A36.svg?style=for-the-badge&logo=Apache maven&logoColor=white" >
+<img src="https://img.shields.io/badge/mysql-8.0-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" >
+
+
+
+
 ## wakatime徽章
 
 [//]: # (所有时间统计)
