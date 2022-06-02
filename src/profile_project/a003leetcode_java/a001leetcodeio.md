@@ -1,51 +1,48 @@
 [//]: # (居中组件)
 <h1 align="center">
-  <br>st-ssm.github.io<br>
+  <br>st-leetcode.github.io<br>
 </h1>
 
-<p align="center">A note-taking project developed using jdk17. To record my course notes on learning java and to help zero-based developers start on the path to code.</p>
+---
+
+<p align="center">A simple record of the brush force buckle ...... according to the type and difficulty of the question, probably also as a record of technical growth ......</p>
 
 <div align="center">
 
+<img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-leetcode.github.io?style=for-the-badge" >
 <img src="https://img.shields.io/badge/java-17-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" >
-<img src="https://img.shields.io/badge/Spring-2.70-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" >
-<img src="https://img.shields.io/badge/mysql-8.0-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" >
-<img src="https://img.shields.io/badge/maven-3.81-%23C71A36.svg?style=for-the-badge&logo=Apache maven&logoColor=white" >
-<br/>
-<img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-ssm.github.io?style=for-the-badge" >
-<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-ssm.github.io?color=%23ca3e47&style=for-the-badge">
+<img src="https://img.shields.io/badge/Spring-3.0-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" >
+<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/7bd41a88-ee74-40b3-92d7-5414df3d9588.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime" >
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-leetcode.github.io?color=%23ca3e47&style=for-the-badge">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-leetcode.github.io?color=%23ca3e47&style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-leetcode.github.io?color=%23ca3e47&style=for-the-badge">
 
 <p align="center">
     <a href="profile_temple.md">English</a>
     ·
-    <a href="./profile_temple_cn.md">简体中文</a>    
+    <a href="profile_temple_cn.md">简体中文</a>    
 <p/>
 
-![Alt](https://repobeats.axiom.co/api/embed/66ed964039388308895c005151b626242f0d011c.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/d80955950a9cc802a9f36426bc3759d8119d5820.svg "Repobeats analytics image")
 </div>
 
 <p>
-<img  align='right' src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-ssm.github.io.svg?type=large">
+
+[//]: # (st-leetcode.github.io) 
+<img  align='right' src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-leetcode.github.io.svg?type=large">
 </p>
 
 ## Features
 
-- [x] Support the latest jdk17
-- [x] No need to install any dependencies, ready to use
-- [x] use GPL-3 open source certificate
-- [ ] io stream after the content is not yet finished
+- [x] Using the latest jdk17 and spring3
+- [x] Currently may be based on time as subcontracting, later the number of more may be in accordance with the type of questions
+- [x] No advertising, welcome to the big guys hanging
+- [ ] ~~The rest of the content has not yet been thought of~~
 
 ## Constructing tools
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/navicat-f7d856.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/sonarlint-CB2029.svg?&style=for-the-badge&logo=sonarlint&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fd266a.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
@@ -84,8 +81,8 @@ Thanks to everyone who has submitted issues on and off Github, made suggestions,
 project. Special thanks to
 
 <div align="center">
-<a href="https://github.com/wo1261931780/st-ssm.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=wo1261931780/st-ssm.github.io" />
+<a href="https://github.com/wo1261931780/st-leetcode.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wo1261931780/st-leetcode.github.io" />
 </a>
 </div>
 
@@ -99,8 +96,3 @@ project. Special thanks to
 </a>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 <div align="center">Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.</div>
-
-
-<h2 align="center"></h2>
- <p align="center"></p>
-

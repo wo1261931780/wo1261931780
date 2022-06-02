@@ -13,7 +13,6 @@
 [//]: # (vue-admin-self)
 ![Alt](https://repobeats.axiom.co/api/embed/08933c55a24d62a955c69812668a5bec5ae9a204.svg "Repobeats analytics image")
 
-
 [//]: # (st-html.github.io)
 ![Alt](https://repobeats.axiom.co/api/embed/b979112ed5a8ef2ae7cbcd9ad27e180a1a993f60.svg "Repobeats analytics image")
 

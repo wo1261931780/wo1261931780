@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/mysql-8.0-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" >
 <img src="https://img.shields.io/badge/maven-3.81-%23C71A36.svg?style=for-the-badge&logo=Apache maven&logoColor=white" >
 <br/>
-<img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-java.github.io?style=for-the-badge" >
+<img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-ssm.github.io?style=for-the-badge" >
 <img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/ae6f11dd-8983-4dd4-8b5c-1d5761184d46.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-java.github.io?color=%23ca3e47&style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-ssm.github.io?color=%23ca3e47&style=for-the-badge">
 
 <p align="center">
     <a href="profile_temple.md">English</a>
@@ -84,8 +84,8 @@
 特别感谢：
 
 <div align="center">
-<a href="https://github.com/wo1261931780/st-java.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=wo1261931780/st-java.github.io" />
+<a href="https://github.com/wo1261931780/st-ssm.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wo1261931780/st-ssm.github.io" />
 </a>
 </div>
 

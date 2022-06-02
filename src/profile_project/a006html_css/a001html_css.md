@@ -1,11 +1,3 @@
-<!--
- * @Author: liujiajun 45444154+wo1261931780@users.noreply.github.com
- * @Date: 2022-06-01 08:21:54
- * @LastEditors: liujiajun 45444154+wo1261931780@users.noreply.github.com
- * @LastEditTime: 2022-06-01 22:11:32
- * @FilePath: \st-html.github.io\src\profile\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 
 [//]: # "居中组件"
 
@@ -21,10 +13,9 @@ package management. Later use elementUI for component presentation and page asse
 <div align="center">
 
 <img alt="GitHub" src="https://img.shields.io/github/license/wo1261931780/st-html.github.io?style=for-the-badge" >
-<img src="https://img.shields.io/badge/nodejs-16-%23ED8B00.svg?style=for-the-badge&logo=node.js&logoColor=white" >
-<img src="https://img.shields.io/badge/vuejs-2-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=white" >
-<img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views">
-<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime" >
+<img src="https://img.shields.io/badge/nodejs-16.15.1-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" >
+
+[//]: # (<img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466/project/1f95b019-406c-4718-a040-981acab28903.svg?color=%23ca3e47&style=for-the-badge" alt="wakatime" >)
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/wo1261931780/st-html.github.io?color=%23ca3e47&style=for-the-badge">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/wo1261931780/st-html.github.io?color=%23ca3e47&style=for-the-badge">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wo1261931780/st-html.github.io?color=%23ca3e47&style=for-the-badge">
@@ -40,9 +31,11 @@ package management. Later use elementUI for component presentation and page asse
 
 </div>
 
-<p>
-  <img  align='right' src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-java.github.io.svg?type=large">
-</p>
+[//]: # (<p>)
+
+[//]: # (  <img  align='right' src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwo1261931780%2Fst-java.github.io.svg?type=large">)
+
+[//]: # (</p>)
 
 ## Features
 
@@ -52,20 +45,17 @@ package management. Later use elementUI for component presentation and page asse
 ## Constructing tools
 
 <p>
-<img src="https://img.shields.io/badge/webstorm-07c3f2.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/VS%20Code-339feb.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/powershell-2c4562.svg?&style=for-the-badge&logo=powershell&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <br/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/notepad%2B%2B-90E59A.svg?&style=for-the-badge&logo=notepad%2B%2B&logoColor=black" style="margin-bottom: 4px;" height="30px">
 <br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <br/>
 <img src="https://img.shields.io/badge/element-409eff.svg?&style=for-the-badge&logo=element&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin-bottom: 4px;" height="30px">
 
 </p>
 
