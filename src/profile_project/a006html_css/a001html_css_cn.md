@@ -35,10 +35,11 @@
 
 ## Features
 
-- [x] ClickHouse support
-- [x] ClickHouse support
-- [x] GitLab CE/EE support (Database-as-Code, login with GitLab account, project membership sync)
-- [ ] GitLab.com support
+- [x] 支持最新的 node.js 16.15.3版本
+- [x] 项目使用 elementUI 2.15.7构建
+- [x] 全部使用原生html5+css3构建
+- [ ] 内置了一个商城项目
+- [ ] 其他特性等待更新
 
 ## 构造工具
 

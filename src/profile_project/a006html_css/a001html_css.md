@@ -39,8 +39,11 @@ package management. Later use elementUI for component presentation and page asse
 
 ## Features
 
-- [x] Support for the latest nodejs
-- [x] Project built with vuejs2
+- [x] Support for the latest node.js 16.15.3
+- [x] The project uses elementUI 2.15.7
+- [x] Built with native html5+css3
+- [ ] A static mall project is built in
+- [ ] Other features awaiting update
 
 ## Constructing tools
 

@@ -98,10 +98,6 @@ system. I will maintain some notes on github for learning the code.
 <a href="https://twitter.com/wo1261931780"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://space.bilibili.com/2001956953?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/佳珺不谈恋爱的空间-%181717.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white&color=00aeec" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://leetcode.com/junw"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href=""><img src="https://img.shields.io/badge/qq-000000?style=for-the-badge&logo=Tencent%20QQ&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-
-[![OSCS Status](https://www.oscs1024.com/platform/badge/dromara/fast-request.svg?size=small)](https://www.oscs1024.com/project/dromara/fast-request?ref=badge_small)
-
 </p>
 <p >
     <span >work：</span>
@@ -166,9 +162,3 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
 
 </div>
-
-
-
-
-
-

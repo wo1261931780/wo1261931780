@@ -100,6 +100,9 @@
 <a href="https://linkedin.com/in/%E5%88%98%E4%BD%B3%E7%8F%BAjunw"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="htttps://discord.gg/wo1261931780"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://leetcode.com/junw"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href=""><img src="https://img.shields.io/badge/QQ-000000?style=for-the-badge&logo=Tencent%20QQ&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+
+[![OSCS Status](https://www.oscs1024.com/platform/badge/dromara/fast-request.svg?size=small)](https://www.oscs1024.com/project/dromara/fast-request?ref=badge_small)
 </p>
 
 ## 🌟 Github Badges
@@ -212,9 +215,3 @@
 [//]: # (vue，bootstrap，element)
 
 ---
-
-
-
-
-
-
