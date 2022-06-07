@@ -15,3 +15,9 @@ c
 0src/profile_project/a006html_css/a001html_css.md,0\c\0cf0455d2e92b826e32e2aba17a16fcf8d635475
 F
 src/metrics/metrics.md,a\b\abd6e69afdba29a1808ea881f678b0ef7d7eae6b
+U
+%src/collections/collection_license.md,2\5\25fdd3f7827cfdf42100ade6aa6a921a6612b813
+V
+&src/collections/collection_repobeat.md,c\3\c335fd90cd0a44e71f140ac503e877bc9b922cd0
+W
+'src/collections/collection_component.md,d\7\d7888b0dc003c1abb4214c55a31f92d06858b104
