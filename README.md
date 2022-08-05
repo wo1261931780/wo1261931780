@@ -52,6 +52,10 @@ system. I will maintain some notes on github for learning the code.
 
 - 😂 ~~The rest of the content has not yet been thought of~~.
 
+<details>
+  <summary><b>Technology Stack Information 📈</b></summary>
+  <br>
+
 ## My Skills 🚀
 
 <p>
@@ -110,6 +114,8 @@ system. I will maintain some notes on github for learning the code.
     <a text="work">642344572@qq.com</a>    
 <p/>
 
+</details>
+
 ## Some statistics 💪💪💪:
 
 <div ALIGN = "center">
@@ -118,6 +124,7 @@ system. I will maintain some notes on github for learning the code.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/>
 
 </div>
+
 
 
 <details>

@@ -46,6 +46,10 @@
 
 - 😂 ~~剩下的东西还没想好。~~
 
+<details>
+  <summary><b>技术栈信息 📈</b></summary>
+  <br>
+
 ## 我的技能 🚀
 
 <p>
@@ -104,6 +108,8 @@
     <a text="work">642344572@qq.com</a>    
 <p/>
 
+</details>
+
 ## 部分统计数据 💪💪💪:
 
 <div ALIGN = "center">
@@ -154,4 +160,3 @@
 <img src="https://count.getloli.com/get/@wo1261931780?theme=gelbooru"/>
 
 </div>
-
