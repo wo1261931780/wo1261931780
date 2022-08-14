@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
