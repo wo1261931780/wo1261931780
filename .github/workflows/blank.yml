@@ -138,9 +138,11 @@ jobs:
           plugin_tweets_user: 君王
           plugin_wakatime: yes
           plugin_wakatime_days: 7
-          plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages-graphs, os-graphs
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: 642344572@qq.com
+          plugin_wakatime_token: ${{ secrets.WAKATIME }}
+          plugin_wakatime_languages_other: yes
+          plugin_wakatime_languages_ignored: Other
+          repositories_affiliations: owner, collaborator
           repositories_forks: yes
