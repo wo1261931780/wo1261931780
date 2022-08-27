@@ -158,6 +158,8 @@ system. I will maintain some notes on github for learning the code.
 [//]: # (自己账号的被查看次数)
 <img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views"/>
 
+<a href="https://wakatime.com/@2e3dbad1-9754-4463-8b48-badfed379466"><img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466.svg" alt="Total time coded since Oct 28 2021" /></a>
+
 </div>
 </div>
 
