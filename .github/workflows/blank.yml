@@ -78,7 +78,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -131,6 +130,7 @@ jobs:
           plugin_sponsors_size: 24
           plugin_sponsors_title: Sponsor Me!
           plugin_stackoverflow: yes
+          plugin_stackoverflow_token: ${{ secrets.STACKOVERFLOW }}
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
@@ -161,13 +161,13 @@ jobs:
           plugin_tweets_user: .user.wo1261931780
           plugin_wakatime: yes
           plugin_wakatime_days: 365
-          plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
-          plugin_wakatime_token: ${{ secrets.WAKATIME }}        
+          plugin_wakatime_token: ${{ secrets.WAKATIME }}
+          plugin_wakatime_languages_other: yes
           plugin_wakatime_languages_ignored: Other
           repositories_affiliations: owner, collaborator
           repositories_forks: yes
