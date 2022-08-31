@@ -158,9 +158,10 @@ jobs:
           plugin_topics_sort: stars
           plugin_traffic: yes
           plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
-          plugin_tweets_limit: 3
-          plugin_tweets_user: .user.wo1261931780
+          plugin_tweets_user: github
+          plugin_tweets_limit: 1
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 5
