@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6256" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6313" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .twemoji{margin-top:.25em;margin-left:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .twemoji{margin-top:.25em;margin-left:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field,.activity .field .content,.diff-handle{text-overflow:ellipsis;overflow:hidden}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.diff-handle{color:#58a6ff;max-width:200px}.diff-box{display:inline-block;width:8px;height:8px;margin-left:1px;background-color:rgba(110,118,129,.4);border:1px solid rgba(246,240,251,.1)}.diff-box:first-child{margin-left:9px}.diff-box.added{background-color:#3fb950}.diff-box.deleted{background-color:#da3633}.diff-stats,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.diff-stats{margin-left:4px;font-weight:700;font-size:12px;white-space:pre}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.ct-chart{display:flex;margin-left:-12px}.ct-line,.ct-point{stroke-width:2px!important;stroke:#58a6ff!important}.ct-point{stroke:#106cbc!important}.ct-area{fill:#58a6ff!important}.ct-label{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important}.ct-label.ct-horizontal{text-anchor:middle!important}.ct-grid{stroke:rgba(127,127,127,.4)!important}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}.ct-label{font-size:.75rem;line-height:1}.ct-line{fill:none}.ct-chart-line .ct-label{display:block;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.ct-label.ct-horizontal.ct-end,.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-start;-webkit-align-items:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:flex-start;-webkit-justify-content:flex-start;-ms-flex-pack:flex-start;justify-content:flex-start;text-align:left;text-anchor:start}.ct-label.ct-vertical.ct-end{-webkit-box-align:flex-end;-webkit-align-items:flex-end;-ms-flex-align:flex-end;align-items:flex-end}.ct-grid{stroke-width:1px;stroke-dasharray:2px}.ct-point{stroke-linecap:round}.ct-line{}.ct-area{stroke:none;fill-opacity:.1}.ct-legend{margin-top:1em}.ct-series-a .ct-line,.ct-series-a .ct-point{background-color:#87ceeb;stroke:#87ceeb}.ct-series-a .ct-area{fill:#87ceeb}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -236,12 +236,6 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">wo1261931780/oldmanagesystem.github.io</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
                             <span class="diff-handle">wo1261931780/st-java.github.io</span>
                         </div>
                         <div class="field">
@@ -256,17 +250,14 @@
                             </svg>
                             <span class="diff-handle">wo1261931780/st-vue.github.io</span>
                         </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <span class="diff-handle">wo1261931780/st-ssm.github.io</span>
+                        </div>
                     </section>
                     <section>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +1.32m</span> <span class="deleted"> -1.24k</span></div>
-                            <span> </span>
-                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -294,6 +285,15 @@
                             <div class="diff-stats"><span class="added"> +39.2k</span> <span class="deleted">    -84</span></div>
                             <span> </span>
                         </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +15.4k</span> <span class="deleted"> -8.72k</span></div>
+                            <span> </span>
+                        </div>
                     </section>
                 </div>
                 <div class="row margin-bottom">
@@ -301,92 +301,100 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(41.93083900226757,0)">
+                            <g class="tick" opacity="1" transform="translate(41.892857142857146,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(69.27777777777777,0)">
+                            <g class="tick" opacity="1" transform="translate(68.8125,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(97.53628117913831,0)">
+                            <g class="tick" opacity="1" transform="translate(96.62946428571428,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(124.88321995464852,0)">
+                            <g class="tick" opacity="1" transform="translate(123.54910714285714,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(153.14172335600907,0)">
+                            <g class="tick" opacity="1" transform="translate(151.36607142857142,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2022</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(181.4002267573696,0)">
+                            <g class="tick" opacity="1" transform="translate(179.18303571428572,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(206.92403628117916,0)">
+                            <g class="tick" opacity="1" transform="translate(204.30803571428572,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(235.18253968253967,0)">
+                            <g class="tick" opacity="1" transform="translate(232.125,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(262.5294784580499,0)">
+                            <g class="tick" opacity="1" transform="translate(259.04464285714283,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(290.7879818594104,0)">
+                            <g class="tick" opacity="1" transform="translate(286.86160714285717,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(318.13492063492066,0)">
+                            <g class="tick" opacity="1" transform="translate(313.78125,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(346.3934240362812,0)">
+                            <g class="tick" opacity="1" transform="translate(341.5982142857143,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(374.65192743764175,0)">
+                            <g class="tick" opacity="1" transform="translate(369.41517857142856,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(401.9988662131519,0)">
+                            <g class="tick" opacity="1" transform="translate(396.33482142857144,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(430.25736961451247,0)">
+                            <g class="tick" opacity="1" transform="translate(424.1517857142857,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,37.534477690008124)">
+                            <g class="tick" opacity="1" transform="translate(0,36.029051000645566)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">1.0M</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,89.26723884500407)">
+                            <g class="tick" opacity="1" transform="translate(0,71.01936733376373)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">500k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,106.00968366688186)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,192.73276115499596)">
+                            <g class="tick" opacity="1" transform="translate(0,175.99031633311813)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−500k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,244.46552230999188)">
+                            <g class="tick" opacity="1" transform="translate(0,210.9806326662363)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−1.0M</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,245.97094899935445)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L45.38095238095238,140.5L51.76190476190476,140.5L58.14285714285714,140.5L64.52380952380952,140.5L70.9047619047619,140.5L77.28571428571428,140.5L83.66666666666666,140.5L90.04761904761905,140.5L96.42857142857143,140.5L121.95238095238096,140.5L128.33333333333334,140.5L134.71428571428572,140.5L141.0952380952381,140.5L147.47619047619048,140.5L153.85714285714286,140.5L160.23809523809524,140.5L166.61904761904762,140.5L173,140.5L179.38095238095238,140.5L185.76190476190476,140.5L192.14285714285714,140.5L198.52380952380952,140.5L204.9047619047619,140.5L211.28571428571428,140.5L217.66666666666666,140.5L224.04761904761904,140.5L230.42857142857144,140.5L236.8095238095238,140.5L243.1904761904762,140.5L249.57142857142856,140.5L255.95238095238096,140.5L262.3333333333333,140.5L268.7142857142857,140.5L275.0952380952381,140.5L281.4761904761905,140.5L287.85714285714283,140.5L294.23809523809524,140.5L300.6190476190476,140.5L307,140.5L313.3809523809524,140.5L319.76190476190476,140.5L326.14285714285717,140.5L332.5238095238095,140.5L338.9047619047619,140.5L345.2857142857143,140.5L351.6666666666667,140.5L358.04761904761904,140.5L364.42857142857144,140.5L370.8095238095238,140.5L377.1904761904762,140.5L383.57142857142856,140.5L389.95238095238096,140.5L396.3333333333333,140.5L402.7142857142857,140.5L409.0952380952381,140.5L415.4761904761905,140.5L428.23809523809524,140.5L434.61904761904765,140.5L441,140.5L441,140.47692718852485L434.61904761904765,140.39405130515456L428.23809523809524,140.49958613791077L415.4761904761905,140.49379206866138L409.0952380952381,140.39705180530157L402.7142857142857,140.42902265169533L396.3333333333333,140.39632754664538L389.95238095238096,140.45509596331746L383.57142857142856,140.46213161883458L377.1904761904762,140.4894465167244L370.8095238095238,139.90507324671756L364.42857142857144,140.26751297136946L358.04761904761904,140.208951485742L351.6666666666667,139.80533248321072L345.2857142857143,137.05832286588043L338.9047619047619,138.27011106317505L332.5238095238095,140.3353863540048L326.14285714285717,140.1594949660778L319.76190476190476,140.19922572664487L313.3809523809524,139.7681883607014L307,140.32741950878696L300.6190476190476,140.19425938157394L294.23809523809524,140.4998965344777L287.85714285714283,140.1842232259099L281.4761904761905,140.3414908198211L275.0952380952381,136.49329764854556L268.7142857142857,139.61650790499496L262.3333333333333,139.92286931655485L255.95238095238096,138.3402606873012L249.57142857142856,140.25633869496L243.1904761904762,140.03264623572576L236.8095238095238,139.88148310763086L230.42857142857144,140.2088480202197L224.04761904761904,140.461614291223L217.66666666666666,140.48303165434118L211.28571428571428,140.43636870377935L204.9047619047619,140.16497863876023L198.52380952380952,140.0528220125762L192.14285714285714,140.36601214860858L185.76190476190476,140.33362744012553L179.38095238095238,140.1893965020254L173,140.3532858893644L166.61904761904762,140.3519408375744L160.23809523809524,138.9443958720693L153.85714285714286,140.3081749216373L147.47619047619048,140.44526673869805L141.0952380952381,140.49948267238844L134.71428571428572,137.46773593766108L128.33333333333334,140.42291818587907L121.95238095238096,140.49213662030445L96.42857142857143,140.3591834241361L90.04761904761905,140.26947881629334L83.66666666666666,140.4017077538055L77.28571428571428,140.1683930009965L70.9047619047619,140.0362675290066L64.52380952380952,139.23192655856874L58.14285714285714,140.32690218117537L51.76190476190476,140.39632754664538L45.38095238095238,139.67155156286387L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L45.38095238095238,140.5L51.76190476190476,140.5L58.14285714285714,140.5L64.52380952380952,140.5L70.9047619047619,140.5L77.28571428571428,140.5L83.66666666666666,140.5L90.04761904761905,140.5L96.42857142857143,140.5L121.95238095238096,140.5L128.33333333333334,140.5L134.71428571428572,140.5L141.0952380952381,140.5L147.47619047619048,140.5L153.85714285714286,140.5L160.23809523809524,140.5L166.61904761904762,140.5L173,140.5L179.38095238095238,140.5L185.76190476190476,140.5L192.14285714285714,140.5L198.52380952380952,140.5L204.9047619047619,140.5L211.28571428571428,140.5L217.66666666666666,140.5L224.04761904761904,140.5L230.42857142857144,140.5L236.8095238095238,140.5L243.1904761904762,140.5L249.57142857142856,140.5L255.95238095238096,140.5L262.3333333333333,140.5L268.7142857142857,140.5L275.0952380952381,140.5L281.4761904761905,140.5L287.85714285714283,140.5L294.23809523809524,140.5L300.6190476190476,140.5L307,140.5L313.3809523809524,140.5L319.76190476190476,140.5L326.14285714285717,140.5L332.5238095238095,140.5L338.9047619047619,140.5L345.2857142857143,140.5L351.6666666666667,140.5L358.04761904761904,140.5L364.42857142857144,140.5L370.8095238095238,140.5L377.1904761904762,140.5L383.57142857142856,140.5L389.95238095238096,140.5L396.3333333333333,140.5L402.7142857142857,140.5L409.0952380952381,140.5L415.4761904761905,140.5L428.23809523809524,140.5L434.61904761904765,140.5L441,140.5L441,140.51841686297118L434.61904761904765,140.525038656399L428.23809523809524,140.5001034655223L415.4761904761905,140.50031039656693L409.0952380952381,140.5018623794016L402.7142857142857,141.77097047605594L396.3333333333333,140.56756298606842L389.95238095238096,140.5684941757692L383.57142857142856,140.5277287599791L377.1904761904762,140.51096734536486L370.8095238095238,141.0382276470566L364.42857142857144,140.5904288664989L358.04761904761904,140.63398785139142L351.6666666666667,141.20894575886805L345.2857142857143,143.7318490548749L338.9047619047619,141.07144007971806L332.5238095238095,140.50569060372703L326.14285714285717,140.54893919205264L319.76190476190476,140.71613947610555L313.3809523809524,140.90910267521372L307,140.60118928081917L300.6190476190476,140.5214173631182L294.23809523809524,140.50031039656693L287.85714285714283,140.65199085227337L281.4761904761905,140.7659063923367L275.0952380952381,140.51334705237798L268.7142857142857,140.96911267815352L262.3333333333333,140.734970201166L255.95238095238096,142.07546950821424L249.57142857142856,140.62333090259352L243.1904761904762,140.81236241185385L236.8095238095238,140.85902536241568L230.42857142857144,140.6656483012183L224.04761904761904,140.51334705237798L217.66666666666666,140.5145886386457L211.28571428571428,140.50879456939634L204.9047619047619,140.69979192358062L198.52380952380952,140.8802357944892L192.14285714285714,140.57263279666162L185.76190476190476,140.53724758803162L179.38095238095238,140.74893804667784L173,140.61536405737564L166.61904761904762,140.6046036430554L160.23809523809524,141.93982620846583L153.85714285714286,140.5410758123571L147.47619047619048,140.5082772417848L141.0952380952381,140.50041386208923L134.71428571428572,140.63740221362764L128.33333333333334,140.52576291505522L121.95238095238096,140.50041386208923L96.42857142857143,140.52048617341737L90.04761904761905,140.65406016271956L83.66666666666666,140.5683907102469L77.28571428571428,140.52524558744364L70.9047619047619,140.79539406619503L64.52380952380952,141.50899577356705L58.14285714285714,140.57408131397395L51.76190476190476,140.53445401892924L45.38095238095238,140.55938920980594L39,140.50538020716013Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L45.28125,140.5L51.5625,140.5L57.84375,140.5L64.125,140.5L70.40625,140.5L76.6875,140.5L82.96875,140.5L89.25,140.5L95.53125,140.5L120.65625,140.5L126.9375,140.5L133.21875,140.5L139.5,140.5L145.78125,140.5L152.0625,140.5L158.34375,140.5L164.625,140.5L170.90625,140.5L177.1875,140.5L183.46875,140.5L189.75,140.5L196.03125,140.5L202.3125,140.5L208.59375,140.5L214.875,140.5L221.15625,140.5L227.4375,140.5L233.71875,140.5L240,140.5L246.28125,140.5L252.5625,140.5L258.84375,140.5L265.125,140.5L271.40625,140.5L277.6875,140.5L283.96875,140.5L290.25,140.5L296.53125,140.5L302.8125,140.5L309.09375,140.5L315.375,140.5L321.65625,140.5L327.9375,140.5L334.21875,140.5L340.5,140.5L346.78125,140.5L353.0625,140.5L359.34375,140.5L365.625,140.5L371.90625,140.5L378.1875,140.5L384.46875,140.5L390.75,140.5L397.03125,140.5L403.3125,140.5L409.59375,140.5L422.15625,140.5L428.4375,140.5L434.71875,140.5L441,140.5L441,139.6427372498386L434.71875,138.5510393802453L428.4375,140.48950290510007L422.15625,139.91216268560362L409.59375,140.38453195610072L403.3125,134.5131568754035L397.03125,138.0996642995481L390.75,136.99397030342155L384.46875,138.98142027114267L378.1875,139.21935442220789L371.90625,140.14309877340222L365.625,120.38056810845708L359.34375,132.63767591994832L353.0625,130.65722401549388L346.78125,117.00750161394448L340.5,24.108211749515803L334.21875,64.84743705616526L327.9375,134.6391220142027L321.65625,128.98468689477082L315.375,130.32831504196255L309.09375,115.75134925758556L302.8125,134.6636152356359L296.53125,127.56408005164623L290.25,133.8728340865074L283.96875,120.0936475145255L277.6875,135.13948353776632L271.40625,5L265.125,110.62176888315041L258.84375,120.98240154938668L252.5625,67.46121368624918L246.28125,132.25978050355067L240,124.69487411233054L233.71875,119.58278889606197L227.4375,130.65372498386057L221.15625,139.2018592640413L214.875,139.92615881213686L208.59375,138.34809554551325L202.3125,129.17013557133635L196.03125,125.37718528082635L189.75,135.9687540348612L183.46875,134.8735571336346L177.1875,129.99590703679795L170.90625,135.53837314396384L164.625,135.4928857327308L158.34375,87.89205939315688L152.0625,134.01279535183988L145.78125,138.64901226597803L139.5,140.48250484183342L133.21875,138.19413815364751L126.9375,137.8932214331827L120.65625,140.23407359586832L95.53125,135.7378179470626L89.25,132.70415752098128L82.96875,137.17591994835377L76.6875,129.28560361523563L70.40625,124.81734021949646L64.125,97.61586830213041L57.84375,134.64612007746936L51.5625,136.99397030342155L45.28125,112.48325371207231L39,75.6699418979987Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L45.28125,140.5L51.5625,140.5L57.84375,140.5L64.125,140.5L70.40625,140.5L76.6875,140.5L82.96875,140.5L89.25,140.5L95.53125,140.5L120.65625,140.5L126.9375,140.5L133.21875,140.5L139.5,140.5L145.78125,140.5L152.0625,140.5L158.34375,140.5L164.625,140.5L170.90625,140.5L177.1875,140.5L183.46875,140.5L189.75,140.5L196.03125,140.5L202.3125,140.5L208.59375,140.5L214.875,140.5L221.15625,140.5L227.4375,140.5L233.71875,140.5L240,140.5L246.28125,140.5L252.5625,140.5L258.84375,140.5L265.125,140.5L271.40625,140.5L277.6875,140.5L283.96875,140.5L290.25,140.5L296.53125,140.5L302.8125,140.5L309.09375,140.5L315.375,140.5L321.65625,140.5L327.9375,140.5L334.21875,140.5L340.5,140.5L346.78125,140.5L353.0625,140.5L359.34375,140.5L365.625,140.5L371.90625,140.5L378.1875,140.5L384.46875,140.5L390.75,140.5L397.03125,140.5L403.3125,140.5L409.59375,140.5L422.15625,140.5L428.4375,140.5L434.71875,140.5L441,140.5L441,140.51749515816658L434.71875,141.29078114912846L428.4375,140.51049709489993L422.15625,140.54898644286635L409.59375,140.51749515816658L403.3125,142.98081342801808L397.03125,183.4821045836023L390.75,142.7848676565526L384.46875,142.81635894125245L378.1875,141.43774047772757L371.90625,140.87089735313106L365.625,158.70196255648807L359.34375,143.55815364751453L353.0625,145.0312459651388L346.78125,164.4753647514526L340.5,249.7957520981278L334.21875,160.11207230471268L327.9375,140.90238863783085L321.65625,142.15504196255648L315.375,147.80947708198838L309.09375,154.33517107811488L302.8125,143.92205293737896L296.53125,141.24879276952873L290.25,141.0178566817301L283.96875,148.37632020658486L277.6875,149.49251129761134L271.40625,140.9513750806972L265.125,156.36460942543576L258.84375,148.44630083925114L252.5625,193.77975468043897L246.28125,144.67084570690767L240,151.0635765009684L233.71875,152.64163976759204L227.4375,146.10194964493223L221.15625,140.9513750806972L214.875,140.99336346029696L208.59375,140.79741768883153L202.3125,147.25663008392507L196.03125,153.35894125242092L189.75,142.95632020658488L183.46875,141.75965138799222L177.1875,148.91867010974823L170.90625,144.40142027114268L164.625,144.03752098127825L158.34375,189.19252420916717L152.0625,141.8891155584248L145.78125,140.77992253066495L139.5,140.51399612653327L133.21875,140.83940606843123L126.9375,141.37125887669464L120.65625,140.51399612653327L95.53125,141.19280826339576L89.25,145.71005810200128L82.96875,142.8128599096191L76.6875,141.3537637185281L70.40625,150.48973531310523L64.125,174.62255648805683L57.84375,143.00530664945128L51.5625,141.6651775338928L45.28125,142.50844415752096L39,140.66445448676564Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -3820,29 +3828,29 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>pivotal-cf/cred-alert</span>
+                                                <span>labring/laf</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Scans repos for credentials and then shouts if it finds them</div>
+                                        <div class="field description">laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#00add8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Go
+                                                TypeScript
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                115
+                                                2.81k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                                 </svg>
-                                                18
+                                                247
                                             </div>
                                         </div>
                                     </section>
@@ -3854,29 +3862,29 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>didi/chameleon</span>
+                                                <span>jeecgboot/jeecg-boot</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">一套代码运行多端，一端所见即多端所见</div>
+                                        <div class="field description">「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&amp;Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                Java
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                8.94k
+                                                32.4k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                                 </svg>
-                                                694
+                                                12.7k
                                             </div>
                                         </div>
                                     </section>
@@ -4020,29 +4028,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>huggingface/diffusers</span>
+                                                <span>996icu/996.ICU</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch</div>
+                                        <div class="field description">Repo for counting stars and contributing. Press F to pay respect to glorious developers.</div>
                                         <div class="field infos">
-                                            <div class="language">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                Python
-                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                7.81k
+                                                264k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                                 </svg>
-                                                1.22k
+                                                21.4k
                                             </div>
                                         </div>
                                     </section>
@@ -4054,29 +4056,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>greatghoul/remote-working</span>
+                                                <span>shaokeyibb/open-source-licenses-in-depth</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">收集整理远程工作相关的资料</div>
+                                        <div class="field description">深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。</div>
                                         <div class="field infos">
-                                            <div class="language">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                Ruby
-                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                8.47k
+                                                131
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                                 </svg>
-                                                767
+                                                5
                                             </div>
                                         </div>
                                     </section>
@@ -5380,7 +5376,7 @@ https://app.snyk.io/org/wo1261931780/project/5bb7c4ee-7fd2-4123-8be4-bd66fde04f2
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Nov 2022, 20:11:30
+                            On 23 Nov 2022, 21:02:56
                         </div>
                     </section>
                 </div>
@@ -5390,22 +5386,22 @@ https://app.snyk.io/org/wo1261931780/project/5bb7c4ee-7fd2-4123-8be4-bd66fde04f2
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            day7-12
+                            day7-finish
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">f39c0abf</span>
-                            <span class="code">day007/demo058字典拆包.py</span>
-                            <span class="code"><span class="snippet additions">++7</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">9c5279a7</span>
+                            <span class="code">day007/demo062查询数据.py</span>
+                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,7 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">dict1 = {"demo1": "111", "demo2": "222", "demo3": "333"}<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"># 拿到的数据是元组的形式<br /></span><span class="token prefix inserted">+</span><span class="token line">for key, value in dict1.items():<br /></span><span class="token prefix inserted">+</span><span class="token line">   print(f"{key}===={value}")<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">print("==================================================")</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,4 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">demo1 = {10, 11, 12}<br /></span><span class="token prefix inserted">+</span><span class="token line">print(11 in demo1)  # 判断集合中是否有这个数据，结果返回true/false<br /></span><span class="token prefix inserted">+</span><span class="token line">print("==================================================")<br /></span><span class="token prefix inserted">+</span><span class="token line">print(111 not in demo1)  # 判断不在集合中的数据</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -5429,7 +5425,7 @@ https://app.snyk.io/org/wo1261931780/project/5bb7c4ee-7fd2-4123-8be4-bd66fde04f2
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2022, 21:23:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 23 Nov 2022, 22:08:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
