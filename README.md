@@ -9,9 +9,13 @@
     ·
     <a href="./README_cn.md">简体中文</a>    
 <p/>
-Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. I switched from molecular biology to computer
-science and technology as a java engineer. Currently, I am working in a bank to build data middleware and business
-system. I will maintain some notes on github for learning the code.
+Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. 
+
+My undergraduate degree is in molecular biology and my master's degree is in computer science in the United States. I have been involved in developing a manuscript management system for a media company and a business system for a bank.
+
+Note projects for learning code can be accessed directly from <a href="https://github.com/wo1261931780"> my profile </a>, and open source business projects can be found in personal organization <a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>。
+
+Thank you for your visit, although the current technology my still need to improve, but I hope it can help you.
 
 
 [//]: # (折线图出现异常)
@@ -27,7 +31,7 @@ system. I will maintain some notes on github for learning the code.
 - 🧬 Bachelor's degree in molecular biology.
 
 
-- 🏦 Currently working full time in a bank as a **java developer**.
+- 🏦 Backend engineer, full time doing **java development**. Will use front-end vue.
 
 
 - 💻 You can find me on  [linkedin](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
@@ -35,19 +39,19 @@ system. I will maintain some notes on github for learning the code.
   ,[Instagram](https://www.instagram.com/junwang7789/).
 
 
-- 🎓 Graduated from **Jimei University**, welcome all alumni to mutual follow me.
+- 🎓 Graduated from **Jimei University**, Master of Computer Science in **asu**, welcome all alumni to mutual follow me.
 
 
-- 📋 Preparing to stay in **the United States**, welcome friends with experience to share.
+- 📋 I am saving up for a house and welcome business contacts from all tech gurus.
 
 
 - 💪 Jiangxi native, currently settled in Xiamen, waiting for a good **job opportunity** for a long time.
 
 
-- 💌 Single, maybe you can find a girlfriend here? It is not impossible to meet girlfriends here🤣🤣🤣.
+- 💌 I like my girlfriend very much, the opposite sex do not disturb🤣🤣🤣.
 
 
-- 🚀 Active on GitHub and participate the development with many projects and repositories.
+- 🚀 The technical level needs to be improved, and I hope to become a full-stack engineer in the future.
 
 
 - 😂 ~~The rest of the content has not yet been thought of~~.

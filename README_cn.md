@@ -9,7 +9,10 @@
     ·
     <a href="./README_cn.md">简体中文</a>    
 <p/>
-你好，我是一名来自中国的java工程师，你可以叫我刘佳珺或者junw。本科分子生物学转行cs，目前作为java开发，在一家银行做数据中台和业务系统的相关工作。在github上会维护一些学习代码的笔记，希望能帮到你。
+你好，我是一名来自中国的java工程师，你可以叫我刘佳珺或者junw。双非本科分子生物学，美研cs硕士。曾参与开发了新媒体公司的稿件管理系统，某银行的业务系统。
+学习代码的笔记项目可以直接访问我的<a href="https://github.com/wo1261931780"> 个人首页 </a>，开源的业务项目可以在个人组织<a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>中找到。 
+
+感谢你的来访，目前技术还有待进步，但希望能帮到你。
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
@@ -19,29 +22,29 @@
 
 ## 我的一些信息💫:
 
-- 🧬 本科分子生物，毕业后转计算机。
+- 🧬 本科分子生物，毕业后转行计算机。
 
 
-- 🏦 在银行全职做**java开发**。
+- 🏦 后端工程师，全职做**java开发**。会用前端vue。
 
 
 - 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)
   ，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
 
 
-- 🎓 毕业于**集美大学**，欢迎各位校友互fo。
+- 🎓 毕业于**集美大学**，计算机硕士在**asu**，欢迎各位校友互fo。
 
 
-- 📋 准备**留学润美**，欢迎有经验的小伙伴互fo。
+- 📋 存钱买房中，欢迎各位大佬给商单。
 
 
 - 💪 江西人，base厦门，长期等一个好的工作机会。
 
 
-- 💌 单身。也许这里能找到女朋友？也不是不行🤣🤣🤣。
+- 💌 很喜欢自己女朋友，异性勿扰。
 
 
-- 🚀 其实还不够活跃，尚在爬坑。
+- 🚀 技术水平尚在爬坑，未来想做java+vue+python+linux全栈。
 
 
 - 😂 ~~剩下的东西还没想好。~~
