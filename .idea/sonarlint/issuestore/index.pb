@@ -19,3 +19,7 @@ W
 'src/collections/collection_component.md,d\7\d7888b0dc003c1abb4214c55a31f92d06858b104
 7
 LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+<
+README_cn.md,e\9\e93e031b238b30871bfbe8254b8d37d21ed29fa2
