@@ -9,13 +9,13 @@
     ·
     <a href="./README_cn.md">简体中文</a>
 <p/>
-Hi, I am a java engineer from China, you can call me Jiajun Liu or junw.
+Hi, I am a full-stack engineer from China, you can call me Jiajun Liu or junw.
 
-My undergraduate degree is in molecular biology and my master's degree is in computer science in the United States. I have been involved in developing a manuscript management system for a media company and a business system for a bank.
+My undergraduate degree is in molecular biology and my master's degree is in computer science in the United States. I have rich experience in **Java backend development**, **Vue frontend development**, **data crawling**, and **system integration**. My projects cover e-commerce systems, account management platforms, WeChat data processing tools, and various web scraping applications.
 
-Note projects for learning code can be accessed directly from <a href="https://github.com/wo1261931780"> my profile </a>, and open source business projects can be found in personal organization <a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>。
+Learning projects and code snippets can be accessed from <a href="https://github.com/wo1261931780"> my profile </a>, and open source business projects can be found in <a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>.
 
-Thank you for your visit, although the current technology my still need to improve, but I hope it can help you.
+Thank you for your visit! I'm passionate about building scalable systems and exploring new technologies. Feel free to reach out for collaboration!
 
 
 [//]: # (折线图出现异常)
@@ -31,15 +31,16 @@ Thank you for your visit, although the current technology my still need to impro
 - 🧬 Bachelor's degree in molecular biology.
 
 
-- 🏦 Backend engineer, full time doing **java development**. Will use front-end vue.
+- 🏦 Full-stack engineer specializing in **Java backend** (Spring Boot, Spring Cloud, MyBatis) and **Vue.js frontend** (Vue 2/3, Element UI).
 
 
-- 💻 You can find me on  [linkedin](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)
-  ,[Twitter](https://twitter.com/home), [Weibo](https://weibo.com/u/6511079715)
-  ,[Instagram](https://www.instagram.com/junwang7789/).
+- 🕷️ Experienced in **web scraping** and **data processing** (WeChat, Weibo, Xiaohongshu, Douyin crawlers), skilled in reverse engineering and anti-crawling techniques.
 
 
-- 🎓 Graduated from **Jimei University**, Master of Computer Science in **asu**, welcome all alumni to mutual follow me.
+- 💻 You can find me on [linkedin](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/), [Twitter](https://twitter.com/home), [Weibo](https://weibo.com/u/6511079715), [Instagram](https://www.instagram.com/junwang7789/).
+
+
+- 🎓 Graduated from **Jimei University**, Master of Computer Science at **ASU**, welcome all alumni to connect!
 
 
 - 📋 I am saving up for a house and welcome business contacts from all tech gurus.
@@ -72,9 +73,11 @@ Thank you for your visit, although the current technology my still need to impro
 <img src="https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-%23009639.svg?style=for-the-badge&logo=linux&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<br/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Anaconda-%23ED8B00.svg?style=for-the-badge&logo=anaconda&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## Tools I Use 🔧
@@ -88,8 +91,12 @@ Thank you for your visit, although the current technology my still need to impro
 <br/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23CB2029.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/webstorm-%23CB2029.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/vscode-%23CB2029.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<br/>
 <img src="https://img.shields.io/badge/Postman-%23CB2029.svg?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-%23CB2029.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23CB2029.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/github-%23CB2029.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## Find me around the web 🌏:

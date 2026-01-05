@@ -9,10 +9,11 @@
     ·
     <a href="./README_cn.md">简体中文</a>
 <p/>
-你好，我是一名来自中国的java工程师，你可以叫我刘佳珺或者junw。双非本科分子生物学，美研cs硕士。曾参与开发了新媒体公司的稿件管理系统，某银行的业务系统。
-学习代码的笔记项目可以直接访问我的<a href="https://github.com/wo1261931780"> 个人首页 </a>，开源的业务项目可以在个人组织<a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>中找到。
+你好，我是一名来自中国的全栈工程师，你可以叫我刘佳珺或者junw。双非本科分子生物学，美研cs硕士。拥有丰富的**Java后端开发**、**Vue前端开发**、**数据爬取**和**系统集成**经验。我的项目涉及电商系统、账户管理平台、微信数据处理工具以及各类爬虫应用。
 
-感谢你的来访，目前技术还有待进步，但希望能帮到你。
+学习代码的笔记项目可以直接访问我的<a href="https://github.com/wo1261931780"> 个人首页 </a>，开源的业务项目可以在<a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>中找到。
+
+感谢你的来访！我热衷于构建可扩展的系统和探索新技术，欢迎交流合作！
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
@@ -25,14 +26,16 @@
 - 🧬 本科分子生物，毕业后转行计算机。
 
 
-- 🏦 后端工程师，全职做**java开发**。会用前端vue。
+- 🏦 全栈工程师，擅长**Java后端**（Spring Boot, Spring Cloud, MyBatis）和**Vue.js前端**（Vue 2/3, Element UI）。
 
 
-- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)
-  ，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
+- 🕷️ 具有丰富的**爬虫**和**数据处理**经验（微信、微博、小红书、抖音爬虫），熟悉逆向工程和反爬虫技术。
 
 
-- 🎓 毕业于**集美大学**，计算机硕士在**asu**，欢迎各位校友互fo。
+- 💻 你可以在[领英](https://www.linkedin.com/in/%E4%BD%B3%E7%8F%BA-%E5%88%98-3a4345156/)，[推特](https://twitter.com/home)，[微博](https://weibo.com/u/6511079715)，[ins](https://www.instagram.com/junwang7789/)上找到我。
+
+
+- 🎓 毕业于**集美大学**，计算机硕士在**ASU**，欢迎各位校友互fo。
 
 
 - 📋 存钱买房中，欢迎各位大佬给商单。
@@ -65,9 +68,11 @@
 <img src="https://img.shields.io/badge/mysql-%23009639.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-%23009639.svg?style=for-the-badge&logo=linux&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<br/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Anaconda-%23ED8B00.svg?style=for-the-badge&logo=anaconda&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 我的工具 🔧🔨
@@ -81,8 +86,12 @@
 <br/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23CB2029.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/webstorm-%23CB2029.svg?&style=for-the-badge&logo=webstorm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/vscode-%23CB2029.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<br/>
 <img src="https://img.shields.io/badge/Postman-%23CB2029.svg?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/navicat-%23CB2029.svg?&style=for-the-badge&logo=navicat&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23CB2029.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/github-%23CB2029.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 你可以在这些地方找到我 🌏:
