@@ -117,8 +117,8 @@
 
 <div ALIGN = "center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wo1261931780&width=50%&&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff"  height="175px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo1261931780&layout=compact"  height="175px"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=wo1261931780&show_icons=true&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff&icon_color=fff"  height="175px"/>
+<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&bg_color=0575e6&title_color=fff&text_color=fff"  height="175px"/>
 
 </div>
 
