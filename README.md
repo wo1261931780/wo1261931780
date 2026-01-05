@@ -1,6 +1,6 @@
 ### I'm JUNW.You can also call me Liu Jiajun👋👋.
 
-<img src="src/banner.png" />
+<img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/src/banner.png" />
 
 ## Thanks for visiting my profile page🌏:
 
@@ -23,7 +23,7 @@ Thank you for your visit, although the current technology my still need to impro
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
 <p>
-  <img  align='right' src="src/QR_code.jpg" width="200px" width="200px" />
+  <img  align='right' src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/src/QR_code.jpg" width="200px" width="200px" />
 </p>
 
 ## Couple things about me💫:
