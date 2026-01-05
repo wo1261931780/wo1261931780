@@ -21,7 +21,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 8
-          # 只生成 github 主题,减少不必要的文件
+          # 只生成 tokyonight 主题,减少不必要的文件
           # 默认会生成所有主题(30+主题 x 5张卡片 = 150+文件)
-          # 设置为 github 主题,只生成需要的卡片
-          THEME_ARRAY: '["github"]'
+          # 设置为 tokyonight 主题,只生成需要的卡片
+          THEME_ARRAY: '["tokyonight"]'

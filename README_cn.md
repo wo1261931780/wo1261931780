@@ -122,6 +122,16 @@
 
 </details>
 
+**很高兴认识你，期待与你一起成长，我的朋友 :)**
+
+<h2></h2>
+
+<br />
+
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## 部分统计数据 💪💪💪:
 
 <div ALIGN = "center">
@@ -137,11 +147,10 @@
 
 <div align="center">
 
-[//]: # (环形图统计提交语言,提交时间分布UTC-0)
+[//]: # (更多统计卡片)
 
-[//]: # (这里不能统一div，不然无法排版)
-
-![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/4-productive-time.svg) ![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/github/2-most-commit-language.svg)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div ALIGN = "center">
 
