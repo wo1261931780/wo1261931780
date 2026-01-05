@@ -7,14 +7,14 @@
 <p align="center">
     <a href="README.md">English</a>
     ·
-    <a href="./README_cn.md">简体中文</a>    
+    <a href="./README_cn.md">简体中文</a>
 <p/>
 你好，我是一名来自中国的java工程师，你可以叫我刘佳珺或者junw。双非本科分子生物学，美研cs硕士。曾参与开发了新媒体公司的稿件管理系统，某银行的业务系统。
-学习代码的笔记项目可以直接访问我的<a href="https://github.com/wo1261931780"> 个人首页 </a>，开源的业务项目可以在个人组织<a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>中找到。 
+学习代码的笔记项目可以直接访问我的<a href="https://github.com/wo1261931780"> 个人首页 </a>，开源的业务项目可以在个人组织<a href="https://github.com/junwOpenSourceProjects"> junw open source projects </a>中找到。
 
 感谢你的来访，目前技术还有待进步，但希望能帮到你。
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
 <p>
   <img  align='right' src="src/QR_code.jpg" width="200px" width="200px" />
@@ -108,7 +108,7 @@
     <a text="work">wo1261931780</a>
     ·
     <span >私人邮箱：</span>
-    <a text="work">642344572@qq.com</a>    
+    <a text="work">642344572@qq.com</a>
 <p/>
 
 </details>
@@ -135,7 +135,7 @@
 
 <div ALIGN = "center">
 
-[<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
+[<img src = "https://streak-stats.demolab.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
 
 </div>
 
@@ -151,6 +151,8 @@
 
 [//]: # (自己账号的被查看次数)
 <img src="https://komarev.com/ghpvc/?username=wo1261931780&style=for-the-badge&label=profile views"/>
+
+<a href="https://wakatime.com/@2e3dbad1-9754-4463-8b48-badfed379466"><img src="https://wakatime.com/badge/user/2e3dbad1-9754-4463-8b48-badfed379466.svg" alt="Total time coded since Oct 28 2021" /></a>
 
 </div>
 </div>

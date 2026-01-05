@@ -7,9 +7,9 @@
 <p align="center">
     <a href="README.md">English</a>
     ·
-    <a href="./README_cn.md">简体中文</a>    
+    <a href="./README_cn.md">简体中文</a>
 <p/>
-Hi, I am a java engineer from China, you can call me Jiajun Liu or junw. 
+Hi, I am a java engineer from China, you can call me Jiajun Liu or junw.
 
 My undergraduate degree is in molecular biology and my master's degree is in computer science in the United States. I have been involved in developing a manuscript management system for a media company and a business system for a bank.
 
@@ -20,7 +20,7 @@ Thank you for your visit, although the current technology my still need to impro
 
 [//]: # (折线图出现异常)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wo1261931780&theme=minimal)](https://github.com/wo1261931780/st-java.github.io)
 
 <p>
   <img  align='right' src="src/QR_code.jpg" width="200px" width="200px" />
@@ -115,7 +115,7 @@ Thank you for your visit, although the current technology my still need to impro
     <a text="work">wo1261931780</a>
     ·
     <span >Personal：</span>
-    <a text="work">642344572@qq.com</a>    
+    <a text="work">642344572@qq.com</a>
 <p/>
 
 </details>
@@ -145,7 +145,7 @@ Thank you for your visit, although the current technology my still need to impro
 
 <div ALIGN = "center">
 
-[<img src = "http://github-readme-streak-stats.herokuapp.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
+[<img src = "https://streak-stats.demolab.com?user=wo1261931780&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=021B79&stroke=0575E6&ring=0575E6&currStreakNum=0575E6&currStreakLabel=021B79&sideLabels=021B79&dates=021B79&sideNums=0575E6">](https://git.io/streak-stats)
 
 </div>
 
