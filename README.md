@@ -124,8 +124,9 @@ Thank you for your visit, although the current technology my still need to impro
 
 <div ALIGN = "center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=wo1261931780&show_icons=true&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff&icon_color=fff"  height="175px"/>
-<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=wo1261931780&layout=compact&bg_color=0575e6&title_color=fff&text_color=fff"  height="175px"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=wo1261931780&show_icons=true&bg_color=30,0575e6,021b79&title_color=fff&text_color=fff&icon_color=fff&hide_border=true"  height="180px"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=wo1261931780&theme=dark&hide_border=true&background=021B79&stroke=0575E6&ring=0575E6&fire=0575E6&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
 
 </div>
 
