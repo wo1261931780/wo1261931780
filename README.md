@@ -194,6 +194,16 @@ Thank you for your visit! I'm passionate about building scalable systems and exp
 
 **Nice to meet you and best wishes for you, my friends :)**
 
+---
+
+## 📄 License
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+本仓库采用 GNU Affero General Public License v3.0 协议开源。
+
+---
+
 <h2></h2>
 
 <br />
