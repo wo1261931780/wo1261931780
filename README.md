@@ -2,6 +2,71 @@
 
 <img src="https://raw.githubusercontent.com/wo1261931780/wo1261931780/main/src/banner.png" />
 
+## 个人技术架构
+
+```mermaid
+graph TB
+    subgraph 全栈能力["全栈能力 Full-Stack"]
+        direction TB
+        A[全栈工程师] --> B[Java后端开发]
+        A --> C[Vue前端开发]
+        A --> D[数据爬虫]
+        A --> E[系统集成]
+    end
+    
+    subgraph 后端技术["后端技术 Backend"]
+        B --> F[Spring Boot]
+        B --> G[Spring Cloud]
+        B --> H[MyBatis]
+        B --> I[MySQL数据库]
+    end
+    
+    subgraph 前端技术["前端技术 Frontend"]
+        C --> J[Vue 2/3]
+        C --> K[Element UI]
+        C --> L[HTML5/CSS3]
+        C --> M[JavaScript]
+    end
+    
+    subgraph 数据处理["数据处理 Data Processing"]
+        D --> N[微信爬虫]
+        D --> O[微博爬虫]
+        D --> P[小红书爬虫]
+        D --> Q[抖音爬虫]
+        D --> R[反爬虫技术]
+    end
+    
+    subgraph 项目经验["项目经验 Projects"]
+        E --> S[电商系统]
+        E --> T[账号管理平台]
+        E --> U[微信数据工具]
+        E --> V[爬虫应用]
+    end
+    
+    style A fill:#4A90E2,stroke:#2E5C8A,color:#fff
+    style B fill:#ED8B00,stroke:#CC8F3D,color:#fff
+    style C fill:#42B883,stroke:#2E7D4D,color:#fff
+    style D fill:#FF6B6B,stroke:#CC5555,color:#fff
+    style E fill:#9B59B6,stroke:#7D4692,color:#fff
+    style F fill:#FFA64D,stroke:#CC8F3D,color:#fff
+    style G fill:#FFB870,stroke:#CC8F3D,color:#fff
+    style H fill:#FFCA93,stroke:#CC8F3D,color:#fff
+    style I fill:#009639,stroke:#006D2A,color:#fff
+    style J fill:#50C878,stroke:#2E7D4D,color:#fff
+    style K fill:#60D488,stroke:#2E7D4D,color:#fff
+    style L fill:#1572B6,stroke:#0E4A7A,color:#fff
+    style M fill:#F7DF1E,stroke:#B7A100,color:#333
+    style N fill:#07C160,stroke:#058A40,color:#fff
+    style O fill:#E6162D,stroke:#A81120,color:#fff
+    style P fill:#FF2442,stroke:#CC1D35,color:#fff
+    style Q fill:#000000,stroke:#333333,color:#fff
+    style R fill:#8B0000,stroke:#5C0000,color:#fff
+    style S fill:#3498DB,stroke:#2471A3,color:#fff
+    style T fill:#E74C3C,stroke:#B03A2E,color:#fff
+    style U fill:#1DA1F2,stroke:#1480B9,color:#fff
+    style V fill:#FF4757,stroke:#CC3945,color:#fff
+```
+
 ## Thanks for visiting my profile page🌏:
 
 <p align="center">
