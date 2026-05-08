@@ -13,21 +13,21 @@ graph TB
         A --> D[数据爬虫]
         A --> E[系统集成]
     end
-    
+
     subgraph 后端技术["后端技术 Backend"]
         B --> F[Spring Boot]
         B --> G[Spring Cloud]
         B --> H[MyBatis]
         B --> I[MySQL数据库]
     end
-    
+
     subgraph 前端技术["前端技术 Frontend"]
         C --> J[Vue 2/3]
         C --> K[Element UI]
         C --> L[HTML5/CSS3]
         C --> M[JavaScript]
     end
-    
+
     subgraph 数据处理["数据处理 Data Processing"]
         D --> N[微信爬虫]
         D --> O[微博爬虫]
@@ -35,14 +35,14 @@ graph TB
         D --> Q[抖音爬虫]
         D --> R[反爬虫技术]
     end
-    
+
     subgraph 项目经验["项目经验 Projects"]
         E --> S[电商系统]
         E --> T[账号管理平台]
         E --> U[微信数据工具]
         E --> V[爬虫应用]
     end
-    
+
     style A fill:#4A90E2,stroke:#2E5C8A,color:#fff
     style B fill:#ED8B00,stroke:#CC8F3D,color:#fff
     style C fill:#42B883,stroke:#2E7D4D,color:#fff
@@ -198,7 +198,7 @@ Thank you for your visit! I'm passionate about building scalable systems and exp
 
 ## 📄 License
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 本仓库采用 GNU Affero General Public License v3.0 协议开源。
 
